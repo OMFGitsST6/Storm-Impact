@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Create a reusable table using d3 and jquery DataTables</title>
+
+<head>
+  <link rel="stylesheet" type="text/css" href="tableResources/css/jquery.dataTables.min.css">
+  <script src="tableResources/d3.v3.min.js"></script>
+  <script src="tableResources/jquery.min.js"></script>
+  <script src="tableResources/jquery.dataTables.min.js"></script>
+  <script src="tableArray.js"></script>
+  <script src="makeTable.js"></script>
+</head>
+
+<body>
+  <p id="demo"></p>
+  <div id='highlighted'>Nothing Highlighted</div>
+  <div id='selected'>Nothing Selected</div>
+  <div id='container'></div>
+
+  <script>
+  var table_plot = makeTable()
+    .datum(storm_data)
+    .sortBy('Grid_ID', true)
+    .filterCols(['col', 'x', 'y']);
+
+  d3.select('#container').call(table_plot);
+
+  table_plot.on('highlight', function(data, on_off){
+    if(on_off){//if the data is highlighted
+      d3.select('#highlighted').text(
+        'Hovering over cell ' + data.Grid_ID
+      );
+      var parent = table_plot.opener;
+    }
+  });
+  table_plot.on('select', function(data, on_off){
+    if(on_off){//if the data is highlighted
+      d3.select('#selected').text(
+        data.Grid_ID + ' added to selection'
+      );
+    }
+  });
+  </script>
+</body>

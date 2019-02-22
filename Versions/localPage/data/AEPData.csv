@@ -1,0 +1,2400 @@
+Grid ID,District Name,District ID,Outages,Lines Down,Wind Speed
+185854,Western Ohio,1,35,0,22
+186686,Western Ohio,1,41,37,8
+186687,Western Ohio,1,57,6,8
+187520,Western Ohio,1,44,67,14
+180029,Western Ohio,1,56,3,4
+180030,Western Ohio,1,17,53,12
+180031,Western Ohio,1,30,16,24
+180032,Western Ohio,1,23,62,2
+180033,Western Ohio,1,15,83,15
+180043,Western Ohio,1,55,30,22
+180044,Western Ohio,1,38,13,28
+180853,Western Ohio,1,16,83,27
+180854,Western Ohio,1,25,75,3
+180855,Western Ohio,1,50,67,28
+180856,Western Ohio,1,26,91,8
+180857,Western Ohio,1,16,70,10
+180858,Western Ohio,1,52,68,20
+180865,Western Ohio,1,25,72,21
+180866,Western Ohio,1,57,22,22
+180867,Western Ohio,1,15,53,23
+180868,Western Ohio,1,9,45,9
+180869,Western Ohio,1,52,67,5
+180870,Western Ohio,1,43,87,8
+181679,Western Ohio,1,10,73,28
+181680,Western Ohio,1,20,24,4
+181681,Western Ohio,1,47,30,6
+181682,Western Ohio,1,53,95,7
+181683,Western Ohio,1,9,15,24
+181684,Western Ohio,1,58,75,23
+181685,Western Ohio,1,62,59,15
+181686,Western Ohio,1,12,62,12
+181687,Western Ohio,1,20,21,9
+181690,Western Ohio,1,11,49,28
+181691,Western Ohio,1,41,37,15
+181692,Western Ohio,1,53,51,22
+181693,Western Ohio,1,53,3,21
+181694,Western Ohio,1,53,39,18
+181695,Western Ohio,1,20,69,27
+181696,Western Ohio,1,48,45,9
+181697,Western Ohio,1,49,1,17
+181698,Western Ohio,1,14,93,3
+181700,Western Ohio,1,40,56,10
+182501,Western Ohio,1,44,80,9
+182502,Western Ohio,1,63,54,27
+182505,Western Ohio,1,61,35,8
+182506,Western Ohio,1,9,48,24
+182507,Western Ohio,1,54,3,14
+182508,Western Ohio,1,27,55,23
+182509,Western Ohio,1,26,90,19
+182510,Western Ohio,1,3,10,15
+182511,Western Ohio,1,52,86,29
+182512,Western Ohio,1,34,27,5
+182513,Western Ohio,1,62,94,15
+182514,Western Ohio,1,56,3,8
+182515,Western Ohio,1,47,42,11
+182517,Western Ohio,1,59,16,27
+182518,Western Ohio,1,27,35,5
+182519,Western Ohio,1,8,77,23
+182520,Western Ohio,1,29,84,11
+182521,Western Ohio,1,14,44,0
+182522,Western Ohio,1,21,20,24
+182523,Western Ohio,1,6,13,23
+182524,Western Ohio,1,54,15,16
+182525,Western Ohio,1,11,69,2
+182526,Western Ohio,1,38,79,29
+182527,Western Ohio,1,34,73,27
+182528,Western Ohio,1,3,2,26
+183328,Western Ohio,1,45,4,15
+183329,Western Ohio,1,19,68,27
+183330,Western Ohio,1,4,14,19
+183331,Western Ohio,1,25,59,4
+183332,Western Ohio,1,50,29,19
+183333,Western Ohio,1,36,41,4
+183334,Western Ohio,1,32,68,7
+183335,Western Ohio,1,22,66,20
+183336,Western Ohio,1,58,72,3
+183337,Western Ohio,1,21,34,28
+183338,Western Ohio,1,57,62,25
+183339,Western Ohio,1,17,98,7
+183340,Western Ohio,1,19,94,17
+183341,Western Ohio,1,32,44,27
+183342,Western Ohio,1,36,5,6
+183343,Western Ohio,1,34,54,8
+183344,Western Ohio,1,39,15,1
+183345,Western Ohio,1,24,29,29
+183346,Western Ohio,1,35,13,9
+183347,Western Ohio,1,35,68,22
+183348,Western Ohio,1,29,34,11
+183349,Western Ohio,1,19,23,20
+183350,Western Ohio,1,10,25,1
+183351,Western Ohio,1,44,67,27
+183352,Western Ohio,1,31,32,25
+183353,Western Ohio,1,35,42,14
+183354,Western Ohio,1,26,67,8
+183355,Western Ohio,1,55,56,17
+183356,Western Ohio,1,30,98,16
+183357,Western Ohio,1,37,82,15
+184158,Western Ohio,1,56,10,6
+184159,Western Ohio,1,25,40,29
+184160,Western Ohio,1,44,24,2
+184161,Western Ohio,1,21,31,18
+184162,Western Ohio,1,38,75,14
+184163,Western Ohio,1,58,61,27
+184164,Western Ohio,1,6,67,19
+184165,Western Ohio,1,32,78,6
+184166,Western Ohio,1,9,98,4
+184167,Western Ohio,1,16,89,17
+184168,Western Ohio,1,17,87,28
+184169,Western Ohio,1,26,84,16
+184170,Western Ohio,1,47,2,22
+184171,Western Ohio,1,28,24,5
+184172,Western Ohio,1,24,85,19
+184173,Western Ohio,1,8,61,1
+184174,Western Ohio,1,31,35,28
+184175,Western Ohio,1,27,83,15
+184176,Western Ohio,1,45,19,20
+184177,Western Ohio,1,45,50,7
+184178,Western Ohio,1,56,98,17
+184179,Western Ohio,1,56,74,9
+184180,Western Ohio,1,46,29,27
+184181,Western Ohio,1,17,13,29
+184182,Western Ohio,1,47,71,14
+184183,Western Ohio,1,51,64,20
+184184,Western Ohio,1,20,86,1
+184185,Western Ohio,1,15,24,4
+184186,Western Ohio,1,27,18,1
+184190,Western Ohio,1,2,86,17
+184191,Western Ohio,1,17,26,26
+184988,Western Ohio,1,22,43,26
+184989,Western Ohio,1,54,9,10
+184990,Western Ohio,1,13,78,10
+184991,Western Ohio,1,29,86,21
+184992,Western Ohio,1,54,35,27
+184993,Western Ohio,1,28,89,8
+184994,Western Ohio,1,59,70,23
+184995,Western Ohio,1,25,14,19
+184996,Western Ohio,1,44,57,27
+184997,Western Ohio,1,0,60,22
+184998,Western Ohio,1,49,70,24
+184999,Western Ohio,1,45,88,26
+185000,Western Ohio,1,54,83,6
+185001,Western Ohio,1,50,23,8
+185002,Western Ohio,1,22,9,12
+185003,Western Ohio,1,47,89,22
+185004,Western Ohio,1,23,84,4
+185005,Western Ohio,1,35,76,0
+185006,Western Ohio,1,25,64,3
+185007,Western Ohio,1,29,65,17
+185008,Western Ohio,1,24,11,5
+185009,Western Ohio,1,55,18,16
+185010,Western Ohio,1,60,31,26
+185011,Western Ohio,1,25,20,25
+185012,Western Ohio,1,17,35,17
+185013,Western Ohio,1,35,59,10
+185014,Western Ohio,1,62,39,17
+185015,Western Ohio,1,34,28,22
+185016,Western Ohio,1,51,12,23
+185019,Western Ohio,1,64,99,2
+185020,Western Ohio,1,57,75,5
+185021,Western Ohio,1,63,97,12
+185022,Western Ohio,1,10,52,5
+185818,Western Ohio,1,7,56,5
+185819,Western Ohio,1,43,54,3
+185820,Western Ohio,1,2,26,18
+185821,Western Ohio,1,21,7,14
+185822,Western Ohio,1,31,91,25
+185823,Western Ohio,1,9,98,12
+185824,Western Ohio,1,40,54,6
+185825,Western Ohio,1,0,28,8
+185826,Western Ohio,1,6,6,1
+185827,Western Ohio,1,41,3,28
+185828,Western Ohio,1,6,91,3
+185829,Western Ohio,1,9,50,27
+185830,Western Ohio,1,13,22,4
+185831,Western Ohio,1,31,24,2
+185832,Western Ohio,1,20,82,5
+185833,Western Ohio,1,38,33,18
+185834,Western Ohio,1,16,90,28
+185835,Western Ohio,1,51,87,0
+185836,Western Ohio,1,38,22,24
+185837,Western Ohio,1,14,32,12
+185838,Western Ohio,1,2,0,7
+185839,Western Ohio,1,0,23,0
+185840,Western Ohio,1,62,18,16
+185841,Western Ohio,1,25,87,0
+185842,Western Ohio,1,27,97,19
+185843,Western Ohio,1,29,40,9
+185844,Western Ohio,1,56,41,25
+185845,Western Ohio,1,59,12,17
+185846,Western Ohio,1,38,20,28
+185847,Western Ohio,1,32,93,20
+185848,Western Ohio,1,13,82,0
+185849,Western Ohio,1,9,39,14
+185850,Western Ohio,1,13,17,7
+185851,Western Ohio,1,21,50,19
+185852,Western Ohio,1,6,75,5
+185853,Western Ohio,1,57,71,7
+186650,Western Ohio,1,6,84,8
+186651,Western Ohio,1,38,67,21
+186652,Western Ohio,1,57,99,16
+186653,Western Ohio,1,47,51,14
+186654,Western Ohio,1,0,14,4
+186655,Western Ohio,1,51,56,25
+186656,Western Ohio,1,44,42,13
+186657,Western Ohio,1,62,80,15
+186658,Western Ohio,1,12,37,25
+186659,Western Ohio,1,22,74,3
+186660,Western Ohio,1,29,20,13
+186661,Western Ohio,1,61,10,25
+186662,Western Ohio,1,43,40,6
+186663,Western Ohio,1,35,13,9
+186664,Western Ohio,1,55,33,24
+186665,Western Ohio,1,10,38,23
+186666,Western Ohio,1,10,70,9
+186667,Western Ohio,1,8,15,28
+186668,Western Ohio,1,4,30,7
+186669,Western Ohio,1,42,4,5
+186670,Western Ohio,1,0,9,12
+186671,Western Ohio,1,6,61,17
+186672,Western Ohio,1,42,40,20
+186673,Western Ohio,1,39,6,25
+186674,Western Ohio,1,57,30,8
+186675,Western Ohio,1,46,58,16
+186676,Western Ohio,1,61,23,14
+186677,Western Ohio,1,23,31,13
+186678,Western Ohio,1,50,17,21
+186679,Western Ohio,1,56,34,27
+186680,Western Ohio,1,32,56,8
+186681,Western Ohio,1,26,44,23
+186682,Western Ohio,1,27,31,9
+186683,Western Ohio,1,58,36,5
+186684,Western Ohio,1,15,58,17
+186685,Western Ohio,1,57,40,14
+187483,Western Ohio,1,9,97,29
+187484,Western Ohio,1,28,93,14
+187485,Western Ohio,1,23,45,17
+187486,Western Ohio,1,42,28,17
+187487,Western Ohio,1,3,74,5
+187488,Western Ohio,1,11,11,2
+187489,Western Ohio,1,38,40,19
+187490,Western Ohio,1,63,19,22
+187491,Western Ohio,1,36,39,21
+187492,Western Ohio,1,37,82,17
+187493,Western Ohio,1,10,79,18
+187494,Western Ohio,1,61,22,9
+187495,Western Ohio,1,12,11,2
+187496,Western Ohio,1,17,52,0
+187497,Western Ohio,1,1,88,24
+187498,Western Ohio,1,2,70,23
+187499,Western Ohio,1,42,7,8
+187500,Western Ohio,1,3,26,19
+187501,Western Ohio,1,51,62,20
+187502,Western Ohio,1,16,99,7
+187503,Western Ohio,1,31,5,24
+187504,Western Ohio,1,29,19,25
+187505,Western Ohio,1,55,85,12
+187506,Western Ohio,1,7,44,6
+187507,Western Ohio,1,31,45,27
+187508,Western Ohio,1,6,27,11
+187509,Western Ohio,1,3,6,28
+187510,Western Ohio,1,5,65,18
+187511,Western Ohio,1,4,79,4
+187512,Western Ohio,1,9,63,0
+187513,Western Ohio,1,62,25,23
+187514,Western Ohio,1,59,30,12
+187515,Western Ohio,1,19,41,13
+187516,Western Ohio,1,23,27,3
+187517,Western Ohio,1,24,26,16
+187518,Western Ohio,1,2,17,28
+187519,Western Ohio,1,49,59,18
+188317,Western Ohio,1,64,78,16
+188318,Western Ohio,1,20,83,16
+188319,Western Ohio,1,42,12,27
+188320,Western Ohio,1,41,10,21
+188321,Western Ohio,1,30,45,5
+188322,Western Ohio,1,0,70,22
+188323,Western Ohio,1,23,31,10
+188324,Western Ohio,1,39,45,25
+188325,Western Ohio,1,35,75,2
+188326,Western Ohio,1,41,99,5
+188327,Western Ohio,1,45,41,3
+188328,Western Ohio,1,33,91,3
+188329,Western Ohio,1,45,3,0
+188330,Western Ohio,1,1,89,20
+188331,Western Ohio,1,9,86,1
+188332,Western Ohio,1,3,64,14
+188333,Western Ohio,1,22,52,7
+188334,Western Ohio,1,63,43,0
+188335,Western Ohio,1,35,85,9
+188336,Western Ohio,1,54,82,23
+188337,Western Ohio,1,22,97,27
+188338,Western Ohio,1,38,31,9
+188339,Western Ohio,1,9,47,1
+188340,Western Ohio,1,60,3,8
+188341,Western Ohio,1,43,86,8
+188342,Western Ohio,1,62,91,22
+188343,Western Ohio,1,38,63,24
+188344,Western Ohio,1,26,65,28
+188345,Western Ohio,1,39,90,12
+188346,Western Ohio,1,6,7,14
+188347,Western Ohio,1,32,65,25
+188348,Western Ohio,1,32,15,4
+188349,Western Ohio,1,49,69,16
+188350,Western Ohio,1,37,36,13
+188351,Western Ohio,1,33,63,13
+188352,Western Ohio,1,18,83,6
+188353,Western Ohio,1,22,18,26
+188354,Western Ohio,1,7,50,5
+188355,Western Ohio,1,37,85,19
+188356,Western Ohio,1,49,42,12
+189152,Western Ohio,1,58,71,13
+189153,Western Ohio,1,24,27,13
+189154,Western Ohio,1,32,2,2
+189155,Western Ohio,1,2,70,5
+189156,Western Ohio,1,59,39,7
+189157,Western Ohio,1,24,85,0
+189158,Western Ohio,1,3,50,29
+189159,Western Ohio,1,40,8,26
+189160,Western Ohio,1,40,92,1
+189161,Western Ohio,1,37,92,15
+189162,Western Ohio,1,31,94,3
+189163,Western Ohio,1,29,59,18
+189164,Western Ohio,1,55,79,5
+189165,Western Ohio,1,13,78,21
+189166,Western Ohio,1,54,47,3
+189167,Western Ohio,1,21,76,27
+189168,Western Ohio,1,25,33,7
+189169,Western Ohio,1,32,90,12
+189170,Western Ohio,1,5,11,5
+189171,Western Ohio,1,36,6,25
+189172,Western Ohio,1,17,36,5
+189173,Western Ohio,1,7,15,13
+189174,Western Ohio,1,14,46,4
+189175,Western Ohio,1,44,61,10
+189176,Western Ohio,1,0,22,7
+189177,Western Ohio,1,15,9,25
+189178,Western Ohio,1,10,64,22
+189179,Western Ohio,1,16,8,7
+189180,Western Ohio,1,4,63,21
+189181,Western Ohio,1,23,42,22
+189182,Western Ohio,1,45,8,8
+189183,Western Ohio,1,49,51,6
+189184,Western Ohio,1,49,44,24
+189185,Western Ohio,1,35,93,25
+189186,Western Ohio,1,53,45,12
+189187,Western Ohio,1,36,12,5
+189188,Western Ohio,1,34,24,12
+189189,Western Ohio,1,58,73,9
+189190,Western Ohio,1,14,76,29
+189191,Western Ohio,1,2,83,25
+189987,Western Ohio,1,14,82,16
+189988,Western Ohio,1,19,80,17
+189989,Western Ohio,1,30,99,6
+189990,Western Ohio,1,34,35,9
+189991,Western Ohio,1,43,12,29
+189992,Western Ohio,1,57,36,2
+189993,Western Ohio,1,39,74,23
+189994,Western Ohio,1,24,64,10
+189995,Western Ohio,1,7,57,2
+189996,Western Ohio,1,8,64,5
+189997,Western Ohio,1,28,13,2
+189998,Western Ohio,1,19,31,13
+189999,Western Ohio,1,36,62,8
+190000,Western Ohio,1,43,14,22
+190001,Western Ohio,1,49,72,26
+190002,Western Ohio,1,10,40,18
+190003,Western Ohio,1,29,30,28
+190004,Western Ohio,1,53,27,21
+190005,Western Ohio,1,61,51,29
+190006,Western Ohio,1,54,1,17
+190007,Western Ohio,1,38,91,9
+190008,Western Ohio,1,63,7,9
+190009,Western Ohio,1,46,98,7
+190010,Western Ohio,1,25,59,1
+190011,Western Ohio,1,15,9,17
+190012,Western Ohio,1,61,4,16
+190013,Western Ohio,1,32,74,3
+190014,Western Ohio,1,12,17,0
+190015,Western Ohio,1,64,75,7
+190016,Western Ohio,1,40,21,6
+190017,Western Ohio,1,32,3,13
+190018,Western Ohio,1,59,68,14
+190019,Western Ohio,1,13,53,20
+190020,Western Ohio,1,35,66,1
+190021,Western Ohio,1,8,3,15
+190022,Western Ohio,1,33,98,17
+190023,Western Ohio,1,36,14,6
+190024,Western Ohio,1,11,57,17
+190025,Western Ohio,1,45,9,12
+190822,Western Ohio,1,38,45,18
+190823,Western Ohio,1,18,91,26
+190824,Western Ohio,1,55,49,22
+190825,Western Ohio,1,9,41,0
+190826,Western Ohio,1,7,71,2
+190827,Western Ohio,1,14,56,11
+190828,Western Ohio,1,11,58,11
+190829,Western Ohio,1,57,96,3
+190830,Western Ohio,1,32,73,22
+190831,Western Ohio,1,6,87,13
+190832,Western Ohio,1,32,57,23
+190834,Western Ohio,1,59,48,4
+190835,Western Ohio,1,9,9,21
+190836,Western Ohio,1,41,96,1
+190837,Western Ohio,1,58,30,5
+190838,Western Ohio,1,32,7,20
+190839,Western Ohio,1,24,75,23
+190840,Western Ohio,1,25,14,14
+190841,Western Ohio,1,44,6,23
+190842,Western Ohio,1,9,29,10
+190843,Western Ohio,1,64,15,10
+190844,Western Ohio,1,28,49,3
+190845,Western Ohio,1,53,66,14
+190846,Western Ohio,1,51,85,15
+190847,Western Ohio,1,36,90,6
+190848,Western Ohio,1,20,24,25
+190849,Western Ohio,1,5,8,27
+190850,Western Ohio,1,49,95,29
+190851,Western Ohio,1,7,1,15
+190852,Western Ohio,1,29,68,22
+190853,Western Ohio,1,21,15,17
+190854,Western Ohio,1,49,59,14
+190855,Western Ohio,1,49,58,19
+190856,Western Ohio,1,60,34,19
+190857,Western Ohio,1,40,96,17
+190858,Western Ohio,1,4,96,28
+190859,Western Ohio,1,13,86,15
+190860,Western Ohio,1,2,78,20
+190861,Western Ohio,1,6,76,21
+190863,Western Ohio,1,34,50,24
+190864,Western Ohio,1,56,29,19
+191658,Western Ohio,1,26,45,9
+191659,Western Ohio,1,24,50,5
+191660,Western Ohio,1,1,42,4
+191661,Western Ohio,1,48,2,1
+191662,Western Ohio,1,40,9,25
+191663,Western Ohio,1,29,36,7
+191664,Western Ohio,1,16,65,3
+191665,Western Ohio,1,53,34,19
+191666,Western Ohio,1,47,85,8
+191667,Western Ohio,1,14,64,10
+191668,Western Ohio,1,43,46,8
+191672,Western Ohio,1,21,88,20
+191673,Western Ohio,1,53,77,25
+191674,Western Ohio,1,28,56,9
+191675,Western Ohio,1,43,93,26
+191676,Western Ohio,1,23,66,8
+191677,Western Ohio,1,56,32,1
+191678,Western Ohio,1,62,69,19
+191679,Western Ohio,1,5,82,6
+191680,Western Ohio,1,29,12,13
+191681,Western Ohio,1,51,46,21
+191682,Western Ohio,1,31,69,21
+191683,Western Ohio,1,60,31,16
+191684,Western Ohio,1,1,70,9
+191685,Western Ohio,1,53,59,27
+191686,Western Ohio,1,64,7,6
+191687,Western Ohio,1,36,19,26
+191688,Western Ohio,1,36,46,16
+191689,Western Ohio,1,48,50,5
+191690,Western Ohio,1,4,76,14
+191691,Western Ohio,1,11,97,10
+191692,Western Ohio,1,49,34,16
+191693,Western Ohio,1,57,11,22
+191694,Western Ohio,1,61,14,8
+191695,Western Ohio,1,37,77,10
+191696,Western Ohio,1,30,92,10
+191697,Western Ohio,1,51,76,28
+191698,Western Ohio,1,19,25,7
+191699,Western Ohio,1,5,7,7
+191700,Western Ohio,1,1,32,8
+192495,Western Ohio,1,9,99,24
+192496,Western Ohio,1,45,61,10
+192497,Western Ohio,1,63,35,15
+192498,Western Ohio,1,38,23,18
+192499,Western Ohio,1,27,32,25
+192500,Western Ohio,1,54,16,0
+192501,Western Ohio,1,24,27,18
+192502,Western Ohio,1,20,60,10
+192503,Western Ohio,1,61,80,5
+192504,Western Ohio,1,38,53,18
+192505,Western Ohio,1,26,55,26
+192509,Western Ohio,1,37,95,28
+192510,Western Ohio,1,29,48,1
+192511,Western Ohio,1,22,73,9
+192512,Western Ohio,1,0,32,14
+192513,Western Ohio,1,20,71,0
+192514,Western Ohio,1,59,45,6
+192515,Western Ohio,1,5,4,14
+192516,Western Ohio,1,56,35,22
+192517,Western Ohio,1,10,44,29
+192518,Western Ohio,1,6,88,19
+192519,Western Ohio,1,12,76,27
+192520,Western Ohio,1,21,13,22
+192521,Western Ohio,1,20,93,3
+192522,Western Ohio,1,47,56,16
+192523,Western Ohio,1,60,13,23
+192524,Western Ohio,1,61,83,1
+192525,Western Ohio,1,31,71,12
+192526,Western Ohio,1,39,68,5
+192527,Western Ohio,1,36,33,9
+192528,Western Ohio,1,54,43,15
+192529,Western Ohio,1,27,85,23
+192530,Western Ohio,1,54,80,11
+192531,Western Ohio,1,32,28,28
+192532,Western Ohio,1,4,77,9
+192533,Western Ohio,1,1,79,10
+192534,Western Ohio,1,34,9,22
+192535,Western Ohio,1,52,45,20
+192536,Western Ohio,1,60,69,8
+192537,Western Ohio,1,51,80,13
+193332,Western Ohio,1,44,17,22
+193333,Western Ohio,1,12,64,22
+193334,Western Ohio,1,59,66,13
+193335,Western Ohio,1,8,14,8
+193336,Western Ohio,1,43,70,8
+193337,Western Ohio,1,52,97,2
+193338,Western Ohio,1,60,97,28
+193339,Western Ohio,1,59,97,10
+193346,Western Ohio,1,2,39,4
+193347,Western Ohio,1,51,17,0
+193348,Western Ohio,1,51,19,15
+193349,Western Ohio,1,37,33,18
+193350,Western Ohio,1,13,45,21
+193351,Western Ohio,1,44,62,10
+193352,Western Ohio,1,26,0,22
+193353,Western Ohio,1,47,41,29
+193354,Western Ohio,1,59,59,10
+193355,Western Ohio,1,12,88,7
+193356,Western Ohio,1,33,16,25
+193357,Western Ohio,1,42,84,1
+193358,Western Ohio,1,28,6,7
+193359,Western Ohio,1,14,24,19
+193360,Western Ohio,1,18,47,11
+193361,Western Ohio,1,57,9,0
+193362,Western Ohio,1,49,17,6
+193363,Western Ohio,1,7,99,21
+193367,Western Ohio,1,14,62,20
+193368,Western Ohio,1,59,91,14
+193369,Western Ohio,1,31,38,29
+193372,Western Ohio,1,47,36,13
+193373,Western Ohio,1,38,45,12
+194170,Western Ohio,1,43,84,4
+194171,Western Ohio,1,59,43,18
+194172,Western Ohio,1,25,89,20
+194173,Western Ohio,1,14,46,13
+194174,Western Ohio,1,21,65,24
+194175,Western Ohio,1,28,99,13
+194176,Western Ohio,1,8,73,28
+194187,Western Ohio,1,38,39,1
+194188,Western Ohio,1,22,72,5
+194189,Western Ohio,1,55,35,17
+194190,Western Ohio,1,11,2,3
+194192,Western Ohio,1,32,86,18
+194193,Western Ohio,1,41,83,22
+194194,Western Ohio,1,8,89,2
+194195,Western Ohio,1,48,66,23
+194196,Western Ohio,1,42,8,18
+194197,Western Ohio,1,54,21,21
+194198,Western Ohio,1,26,69,2
+194199,Western Ohio,1,5,99,14
+194200,Western Ohio,1,55,37,7
+194201,Western Ohio,1,6,14,4
+194210,Western Ohio,1,31,21,12
+195025,Western Ohio,1,55,98,21
+195026,Western Ohio,1,24,64,20
+195027,Western Ohio,1,7,30,10
+195028,Western Ohio,1,3,12,9
+195030,Western Ohio,1,9,85,28
+195031,Western Ohio,1,38,36,3
+195032,Western Ohio,1,61,89,26
+195033,Western Ohio,1,51,25,22
+195034,Western Ohio,1,6,14,22
+195035,Western Ohio,1,31,23,4
+195036,Western Ohio,1,35,26,28
+195037,Western Ohio,1,5,29,6
+195866,Western Ohio,1,7,10,29
+195867,Western Ohio,1,15,33,19
+195869,Western Ohio,1,11,27,28
+195870,Western Ohio,1,58,30,15
+195873,Western Ohio,1,10,79,6
+195874,Western Ohio,1,45,23,13
+195875,Western Ohio,1,30,81,21
+195876,Western Ohio,1,64,87,27
+196703,Western Ohio,1,13,78,23
+196704,Western Ohio,1,49,9,12
+196705,Western Ohio,1,37,72,23
+196708,Western Ohio,1,48,2,6
+196709,Western Ohio,1,38,75,27
+196710,Western Ohio,1,36,2,16
+196711,Western Ohio,1,11,88,20
+197533,Western Ohio,1,40,95,20
+197534,Western Ohio,1,55,6,15
+197535,Western Ohio,1,14,4,19
+197539,Western Ohio,1,5,6,11
+197540,Western Ohio,1,53,32,10
+197541,Western Ohio,1,30,30,8
+198362,Western Ohio,1,60,53,3
+198363,Western Ohio,1,29,14,7
+198368,Western Ohio,1,62,52,11
+198369,Western Ohio,1,43,83,12
+198370,Western Ohio,1,58,85,27
+198371,Western Ohio,1,60,50,3
+198372,Western Ohio,1,44,8,7
+199196,Western Ohio,1,12,9,25
+200841,Western Ohio,1,37,31,4
+171084,Columbus,2,25,15,28
+171894,Columbus,2,22,76,23
+171895,Columbus,2,42,34,15
+171896,Columbus,2,16,37,20
+171897,Columbus,2,60,45,4
+172704,Columbus,2,14,7,21
+172705,Columbus,2,55,29,1
+172706,Columbus,2,7,68,10
+172707,Columbus,2,56,63,3
+172708,Columbus,2,34,37,24
+173514,Columbus,2,45,97,0
+173515,Columbus,2,19,61,10
+173516,Columbus,2,12,93,29
+173517,Columbus,2,51,1,5
+173518,Columbus,2,55,62,9
+174329,Columbus,2,23,37,5
+174330,Columbus,2,3,29,12
+174331,Columbus,2,17,22,6
+174332,Columbus,2,32,57,24
+175142,Columbus,2,16,99,15
+175143,Columbus,2,2,6,18
+175144,Columbus,2,62,52,10
+175956,Columbus,2,46,33,7
+175957,Columbus,2,29,52,4
+176768,Columbus,2,56,29,20
+176769,Columbus,2,54,3,10
+176770,Columbus,2,49,96,8
+177587,Columbus,2,31,34,21
+177588,Columbus,2,38,67,24
+177589,Columbus,2,49,46,2
+178408,Columbus,2,10,50,22
+178409,Columbus,2,50,4,21
+178410,Columbus,2,16,7,21
+178411,Columbus,2,58,89,4
+179232,Columbus,2,12,56,9
+179234,Columbus,2,13,24,21
+179235,Columbus,2,50,29,7
+180056,Columbus,2,40,94,13
+180881,Columbus,2,9,6,28
+180882,Columbus,2,19,74,6
+181707,Columbus,2,28,32,2
+181708,Columbus,2,44,81,6
+177574,Columbus,2,32,31,11
+177575,Columbus,2,26,78,21
+178397,Columbus,2,30,91,25
+178398,Columbus,2,15,90,17
+181701,Columbus,2,12,39,28
+182529,Columbus,2,51,67,10
+166187,Columbus,2,2,21,5
+167003,Columbus,2,16,52,26
+167004,Columbus,2,47,15,13
+167819,Columbus,2,57,74,25
+167820,Columbus,2,58,25,1
+168633,Columbus,2,25,18,20
+168634,Columbus,2,15,44,0
+168635,Columbus,2,18,59,0
+168636,Columbus,2,14,23,5
+168637,Columbus,2,29,32,21
+168638,Columbus,2,25,92,5
+169447,Columbus,2,38,78,9
+169448,Columbus,2,51,52,18
+169449,Columbus,2,3,32,0
+169450,Columbus,2,7,80,8
+169451,Columbus,2,29,49,4
+169452,Columbus,2,23,19,17
+169453,Columbus,2,44,81,12
+169454,Columbus,2,17,44,12
+170261,Columbus,2,21,25,21
+170262,Columbus,2,54,93,2
+170263,Columbus,2,39,65,6
+170264,Columbus,2,56,6,24
+170265,Columbus,2,0,69,9
+170266,Columbus,2,21,24,0
+170267,Columbus,2,45,45,12
+170268,Columbus,2,59,88,24
+170269,Columbus,2,54,54,11
+170270,Columbus,2,17,26,8
+171075,Columbus,2,60,34,1
+171076,Columbus,2,4,42,26
+171077,Columbus,2,12,79,2
+171078,Columbus,2,41,4,17
+171079,Columbus,2,64,63,21
+171080,Columbus,2,13,1,25
+171081,Columbus,2,37,23,27
+171082,Columbus,2,48,37,8
+171083,Columbus,2,33,46,5
+171885,Columbus,2,29,39,29
+171886,Columbus,2,56,51,8
+171887,Columbus,2,41,34,22
+171888,Columbus,2,38,54,11
+171889,Columbus,2,27,82,25
+171890,Columbus,2,51,38,13
+171891,Columbus,2,60,57,26
+171892,Columbus,2,7,27,26
+171893,Columbus,2,44,3,12
+172695,Columbus,2,64,45,18
+172696,Columbus,2,30,63,26
+172697,Columbus,2,14,96,3
+172698,Columbus,2,52,43,10
+172699,Columbus,2,61,70,20
+172700,Columbus,2,22,0,5
+172701,Columbus,2,34,24,28
+172702,Columbus,2,11,17,0
+172703,Columbus,2,22,89,21
+173504,Columbus,2,60,63,2
+173505,Columbus,2,5,98,14
+173506,Columbus,2,30,55,19
+173507,Columbus,2,0,53,5
+173508,Columbus,2,25,53,8
+173509,Columbus,2,21,56,21
+173510,Columbus,2,61,36,2
+173511,Columbus,2,51,45,0
+173512,Columbus,2,10,82,27
+173513,Columbus,2,57,7,4
+174319,Columbus,2,5,72,19
+174320,Columbus,2,48,79,0
+174321,Columbus,2,37,93,26
+174322,Columbus,2,53,13,5
+174323,Columbus,2,20,67,8
+174324,Columbus,2,32,23,6
+174325,Columbus,2,28,24,10
+174326,Columbus,2,55,0,23
+174327,Columbus,2,62,19,16
+174328,Columbus,2,58,35,7
+175133,Columbus,2,34,22,6
+175134,Columbus,2,39,23,25
+175135,Columbus,2,46,53,25
+175136,Columbus,2,54,58,23
+175137,Columbus,2,19,17,22
+175138,Columbus,2,47,67,18
+175139,Columbus,2,9,16,11
+175140,Columbus,2,33,53,2
+175141,Columbus,2,7,47,29
+175948,Columbus,2,23,47,14
+175949,Columbus,2,61,16,23
+175950,Columbus,2,62,76,19
+175951,Columbus,2,24,61,23
+175952,Columbus,2,1,85,0
+175953,Columbus,2,47,60,27
+175954,Columbus,2,19,56,26
+175955,Columbus,2,54,39,27
+176760,Columbus,2,43,65,2
+176761,Columbus,2,37,45,26
+176762,Columbus,2,15,11,22
+176763,Columbus,2,0,53,4
+176764,Columbus,2,3,18,4
+176765,Columbus,2,48,9,21
+176766,Columbus,2,34,39,25
+176767,Columbus,2,30,61,28
+177579,Columbus,2,17,61,21
+177580,Columbus,2,40,15,28
+177581,Columbus,2,3,45,21
+177582,Columbus,2,60,34,12
+177583,Columbus,2,43,16,3
+177584,Columbus,2,59,29,7
+177585,Columbus,2,53,99,19
+177586,Columbus,2,12,50,26
+178403,Columbus,2,61,31,22
+178404,Columbus,2,19,82,22
+178405,Columbus,2,34,85,5
+178406,Columbus,2,30,11,28
+179226,Columbus,2,32,91,22
+179227,Columbus,2,28,97,12
+179228,Columbus,2,1,10,26
+179229,Columbus,2,15,69,3
+179230,Columbus,2,46,50,8
+180049,Columbus,2,43,95,26
+180050,Columbus,2,32,3,21
+180051,Columbus,2,3,35,17
+180052,Columbus,2,3,82,27
+180053,Columbus,2,42,65,29
+180055,Columbus,2,50,23,7
+180874,Columbus,2,22,97,9
+180875,Columbus,2,18,99,2
+180876,Columbus,2,41,8,7
+180877,Columbus,2,25,98,21
+180878,Columbus,2,0,54,19
+180879,Columbus,2,23,54,8
+180880,Columbus,2,53,46,20
+181702,Columbus,2,41,10,24
+181703,Columbus,2,51,0,6
+181704,Columbus,2,63,29,22
+181705,Columbus,2,20,94,0
+181706,Columbus,2,9,57,11
+182530,Columbus,2,52,68,23
+182531,Columbus,2,44,84,25
+183358,Columbus,2,52,65,18
+183359,Columbus,2,62,92,4
+183360,Columbus,2,48,1,15
+170272,Athens,3,19,88,28
+170273,Athens,3,57,89,2
+170274,Athens,3,17,29,13
+170275,Athens,3,29,37,4
+170276,Athens,3,34,30,16
+170277,Athens,3,23,80,25
+170278,Athens,3,34,35,13
+170290,Athens,3,5,67,25
+170291,Athens,3,10,81,16
+170292,Athens,3,28,14,14
+171086,Athens,3,25,27,25
+171087,Athens,3,34,53,1
+171088,Athens,3,3,85,21
+171089,Athens,3,57,82,7
+171090,Athens,3,0,85,14
+171091,Athens,3,10,45,3
+171092,Athens,3,15,7,12
+171093,Athens,3,34,64,15
+171094,Athens,3,25,34,8
+171095,Athens,3,7,47,26
+171096,Athens,3,44,62,11
+171097,Athens,3,27,15,12
+171098,Athens,3,43,80,25
+171099,Athens,3,60,42,2
+171116,Athens,3,4,4,0
+171117,Athens,3,13,52,1
+171898,Athens,3,34,78,27
+171899,Athens,3,35,1,20
+171900,Athens,3,18,64,18
+171901,Athens,3,58,81,16
+171902,Athens,3,40,69,24
+171903,Athens,3,38,23,6
+171904,Athens,3,50,1,5
+171905,Athens,3,56,51,19
+171906,Athens,3,30,87,3
+171907,Athens,3,61,97,3
+171908,Athens,3,25,39,14
+171909,Athens,3,56,27,29
+171910,Athens,3,62,13,28
+171911,Athens,3,30,63,2
+171927,Athens,3,44,39,13
+171928,Athens,3,17,68,11
+172709,Athens,3,54,64,4
+172710,Athens,3,43,5,25
+172711,Athens,3,23,16,27
+172712,Athens,3,37,11,7
+172713,Athens,3,17,62,25
+172714,Athens,3,1,94,5
+172715,Athens,3,6,40,3
+172716,Athens,3,36,51,14
+172717,Athens,3,59,17,26
+172718,Athens,3,24,11,15
+172719,Athens,3,20,68,3
+172720,Athens,3,45,14,26
+172721,Athens,3,28,20,5
+172736,Athens,3,2,20,2
+172737,Athens,3,56,7,21
+172738,Athens,3,57,12,3
+154007,Athens,3,41,44,18
+154811,Athens,3,13,11,6
+154812,Athens,3,24,70,7
+154813,Athens,3,27,40,23
+155614,Athens,3,55,50,15
+155615,Athens,3,26,93,20
+155616,Athens,3,61,0,21
+155617,Athens,3,16,3,26
+156424,Athens,3,47,74,13
+156425,Athens,3,23,57,21
+156426,Athens,3,23,18,22
+156427,Athens,3,29,99,10
+156428,Athens,3,16,78,23
+156429,Athens,3,9,81,7
+157237,Athens,3,37,18,17
+157238,Athens,3,39,96,8
+157239,Athens,3,63,90,4
+157240,Athens,3,61,99,13
+157241,Athens,3,16,53,19
+157242,Athens,3,14,6,27
+158049,Athens,3,56,1,14
+158050,Athens,3,31,56,7
+158051,Athens,3,4,82,11
+158052,Athens,3,11,45,12
+158053,Athens,3,51,89,18
+158054,Athens,3,3,73,18
+158055,Athens,3,55,93,3
+158865,Athens,3,35,11,13
+158866,Athens,3,51,1,20
+158867,Athens,3,6,99,22
+158868,Athens,3,22,96,23
+158869,Athens,3,55,31,15
+158870,Athens,3,29,75,10
+158871,Athens,3,25,39,24
+159679,Athens,3,33,63,27
+159680,Athens,3,14,36,28
+159681,Athens,3,28,27,13
+159682,Athens,3,64,95,26
+159683,Athens,3,33,31,28
+159684,Athens,3,42,24,20
+159685,Athens,3,64,64,18
+159686,Athens,3,44,42,12
+159687,Athens,3,51,91,25
+160496,Athens,3,27,21,17
+160497,Athens,3,40,2,16
+160498,Athens,3,31,50,25
+160499,Athens,3,22,71,24
+160500,Athens,3,6,99,16
+160501,Athens,3,29,63,8
+160502,Athens,3,7,76,21
+160503,Athens,3,38,95,19
+160504,Athens,3,60,69,7
+161313,Athens,3,55,47,17
+161314,Athens,3,28,85,10
+161315,Athens,3,22,94,21
+161316,Athens,3,46,10,21
+161317,Athens,3,46,50,2
+161318,Athens,3,7,61,8
+161319,Athens,3,4,88,3
+161320,Athens,3,39,57,29
+161321,Athens,3,32,45,6
+162129,Athens,3,24,55,10
+162130,Athens,3,43,93,7
+162131,Athens,3,61,94,10
+162132,Athens,3,43,59,16
+162133,Athens,3,29,68,9
+162134,Athens,3,9,74,26
+162135,Athens,3,34,55,15
+162136,Athens,3,7,94,26
+162137,Athens,3,29,14,19
+162138,Athens,3,18,67,0
+162139,Athens,3,34,60,7
+162140,Athens,3,1,62,4
+162943,Athens,3,33,51,25
+162944,Athens,3,47,6,18
+162945,Athens,3,38,62,9
+162946,Athens,3,12,2,2
+162947,Athens,3,29,35,24
+162948,Athens,3,5,7,6
+162949,Athens,3,46,96,0
+162950,Athens,3,3,79,14
+162951,Athens,3,4,63,28
+162952,Athens,3,55,41,11
+162953,Athens,3,54,61,0
+162954,Athens,3,55,30,21
+162955,Athens,3,52,32,29
+162956,Athens,3,44,91,3
+163756,Athens,3,6,84,14
+163757,Athens,3,22,83,9
+163758,Athens,3,55,75,11
+163759,Athens,3,16,5,11
+163760,Athens,3,38,41,19
+163761,Athens,3,30,98,9
+163762,Athens,3,55,55,5
+163763,Athens,3,12,48,26
+163764,Athens,3,2,20,24
+163765,Athens,3,63,69,15
+163766,Athens,3,4,32,21
+163767,Athens,3,16,47,6
+163768,Athens,3,2,45,15
+163769,Athens,3,12,98,3
+163770,Athens,3,41,65,25
+163771,Athens,3,26,40,21
+163772,Athens,3,40,66,23
+163774,Athens,3,61,98,12
+163775,Athens,3,23,90,27
+164568,Athens,3,52,63,2
+164569,Athens,3,9,46,13
+164570,Athens,3,50,75,19
+164571,Athens,3,53,90,11
+164572,Athens,3,61,6,13
+164573,Athens,3,60,92,5
+164574,Athens,3,52,47,13
+164575,Athens,3,59,36,29
+164576,Athens,3,11,99,13
+164577,Athens,3,52,45,22
+164578,Athens,3,14,84,15
+164579,Athens,3,43,34,24
+164580,Athens,3,14,42,23
+164581,Athens,3,4,81,14
+164582,Athens,3,40,19,3
+164583,Athens,3,56,96,19
+164584,Athens,3,41,80,17
+164585,Athens,3,45,55,23
+164586,Athens,3,12,26,4
+164587,Athens,3,11,85,0
+164588,Athens,3,37,8,1
+164589,Athens,3,57,2,1
+164590,Athens,3,48,97,5
+164591,Athens,3,59,52,27
+165382,Athens,3,4,14,24
+165383,Athens,3,17,25,29
+165384,Athens,3,13,19,24
+165385,Athens,3,42,36,12
+165386,Athens,3,55,8,24
+165387,Athens,3,44,74,24
+165388,Athens,3,21,45,22
+165389,Athens,3,11,41,19
+165390,Athens,3,21,66,0
+165391,Athens,3,51,86,20
+165392,Athens,3,63,60,18
+165393,Athens,3,39,39,7
+165394,Athens,3,62,64,3
+165395,Athens,3,22,83,20
+165396,Athens,3,7,84,13
+165397,Athens,3,26,23,26
+165398,Athens,3,59,22,11
+165399,Athens,3,24,50,6
+165400,Athens,3,28,87,14
+165401,Athens,3,32,26,16
+165402,Athens,3,42,90,24
+165403,Athens,3,29,25,13
+165404,Athens,3,13,10,17
+165405,Athens,3,12,6,24
+165406,Athens,3,14,55,23
+165407,Athens,3,29,98,25
+166198,Athens,3,29,37,22
+166199,Athens,3,45,83,22
+166200,Athens,3,15,33,24
+166201,Athens,3,22,70,7
+166202,Athens,3,53,19,22
+166203,Athens,3,44,87,28
+166204,Athens,3,13,86,19
+166205,Athens,3,5,9,28
+166206,Athens,3,63,74,12
+166207,Athens,3,59,65,3
+166208,Athens,3,3,39,12
+166209,Athens,3,33,87,3
+166210,Athens,3,14,64,14
+166211,Athens,3,12,50,0
+166212,Athens,3,44,3,13
+166213,Athens,3,7,42,7
+166214,Athens,3,32,24,6
+166215,Athens,3,54,79,23
+166216,Athens,3,3,59,19
+166217,Athens,3,28,80,22
+166218,Athens,3,19,48,5
+166219,Athens,3,32,14,12
+166220,Athens,3,19,63,10
+166222,Athens,3,61,65,26
+166223,Athens,3,51,27,5
+166224,Athens,3,42,73,3
+167014,Athens,3,30,4,15
+167015,Athens,3,50,4,14
+167016,Athens,3,25,43,27
+167017,Athens,3,49,41,11
+167018,Athens,3,44,13,13
+167019,Athens,3,43,89,0
+167020,Athens,3,18,31,10
+167021,Athens,3,52,13,12
+167022,Athens,3,59,20,14
+167023,Athens,3,50,77,22
+167024,Athens,3,42,86,27
+167025,Athens,3,21,24,6
+167026,Athens,3,61,80,15
+167027,Athens,3,34,61,21
+167028,Athens,3,59,48,28
+167029,Athens,3,12,37,3
+167030,Athens,3,64,23,19
+167031,Athens,3,8,0,22
+167032,Athens,3,42,75,11
+167033,Athens,3,62,39,2
+167034,Athens,3,63,43,17
+167035,Athens,3,12,7,23
+167036,Athens,3,48,67,20
+167039,Athens,3,26,12,20
+167040,Athens,3,19,46,10
+167041,Athens,3,38,57,8
+167829,Athens,3,19,83,7
+167830,Athens,3,16,17,8
+167831,Athens,3,19,62,16
+167832,Athens,3,14,49,20
+167833,Athens,3,9,97,17
+167834,Athens,3,10,34,0
+167835,Athens,3,41,55,12
+167836,Athens,3,8,54,23
+167837,Athens,3,8,69,10
+167838,Athens,3,5,70,5
+167839,Athens,3,48,42,7
+167840,Athens,3,44,22,18
+167841,Athens,3,12,70,5
+167842,Athens,3,35,52,8
+167843,Athens,3,44,59,1
+167844,Athens,3,43,13,21
+167845,Athens,3,43,33,7
+167846,Athens,3,34,82,3
+167847,Athens,3,53,61,16
+167848,Athens,3,58,73,5
+167849,Athens,3,31,42,27
+167850,Athens,3,2,6,3
+167851,Athens,3,20,9,21
+167852,Athens,3,15,40,14
+167855,Athens,3,17,49,9
+167856,Athens,3,43,48,17
+167857,Athens,3,55,66,24
+168643,Athens,3,34,18,22
+168644,Athens,3,42,62,12
+168645,Athens,3,28,96,21
+168646,Athens,3,32,72,14
+168647,Athens,3,25,27,27
+168648,Athens,3,42,1,5
+168649,Athens,3,60,21,3
+168650,Athens,3,59,50,13
+168651,Athens,3,59,77,4
+168652,Athens,3,14,4,19
+168653,Athens,3,49,47,25
+168654,Athens,3,24,11,3
+168655,Athens,3,20,61,16
+168656,Athens,3,16,62,16
+168657,Athens,3,9,94,16
+168658,Athens,3,34,28,14
+168659,Athens,3,61,32,0
+168660,Athens,3,33,77,7
+168661,Athens,3,25,12,11
+168662,Athens,3,0,15,9
+168663,Athens,3,40,40,27
+168664,Athens,3,56,18,17
+168665,Athens,3,31,44,29
+168670,Athens,3,25,11,15
+168671,Athens,3,2,68,15
+168672,Athens,3,61,57,21
+169457,Athens,3,30,45,13
+169458,Athens,3,56,66,29
+169459,Athens,3,64,37,9
+169460,Athens,3,17,31,1
+169461,Athens,3,43,96,8
+169462,Athens,3,41,19,7
+169463,Athens,3,10,84,24
+169464,Athens,3,47,13,19
+169465,Athens,3,37,30,26
+169466,Athens,3,61,21,28
+169467,Athens,3,13,44,12
+169468,Athens,3,50,74,21
+169469,Athens,3,23,92,2
+169470,Athens,3,36,87,18
+169471,Athens,3,44,2,18
+169472,Athens,3,58,18,7
+169473,Athens,3,12,39,11
+169474,Athens,3,19,63,27
+169475,Athens,3,6,96,7
+169476,Athens,3,6,95,1
+169477,Athens,3,40,73,19
+169478,Athens,3,27,70,10
+169479,Athens,3,43,96,26
+169487,Athens,3,17,59,23
+170279,Athens,3,24,78,6
+170280,Athens,3,15,34,21
+170281,Athens,3,27,58,16
+170282,Athens,3,44,87,2
+170283,Athens,3,54,16,0
+170284,Athens,3,20,32,28
+170285,Athens,3,64,27,6
+170286,Athens,3,29,97,0
+170287,Athens,3,51,21,22
+170288,Athens,3,22,70,16
+170289,Athens,3,61,17,9
+170293,Athens,3,36,79,18
+170302,Athens,3,19,73,7
+170303,Athens,3,50,86,2
+148392,Chillicothe,4,2,53,18
+148393,Chillicothe,4,25,42,10
+148394,Chillicothe,4,52,53,16
+149194,Chillicothe,4,27,83,1
+149195,Chillicothe,4,59,24,11
+149196,Chillicothe,4,26,68,5
+149994,Chillicothe,4,37,96,19
+149995,Chillicothe,4,47,20,14
+149996,Chillicothe,4,21,46,26
+150796,Chillicothe,4,57,34,9
+150797,Chillicothe,4,42,63,16
+150798,Chillicothe,4,48,74,0
+151596,Chillicothe,4,55,71,3
+151597,Chillicothe,4,16,55,3
+151598,Chillicothe,4,18,78,24
+151599,Chillicothe,4,2,16,26
+152395,Chillicothe,4,60,51,10
+152396,Chillicothe,4,62,52,11
+152397,Chillicothe,4,29,75,17
+152398,Chillicothe,4,11,72,1
+153196,Chillicothe,4,35,88,23
+153197,Chillicothe,4,4,62,6
+153198,Chillicothe,4,62,11,24
+153199,Chillicothe,4,43,59,23
+153200,Chillicothe,4,44,43,1
+153999,Chillicothe,4,16,95,16
+154000,Chillicothe,4,51,89,20
+154001,Chillicothe,4,21,15,23
+154002,Chillicothe,4,19,20,23
+154003,Chillicothe,4,12,39,16
+154805,Chillicothe,4,61,49,20
+154806,Chillicothe,4,23,96,21
+154807,Chillicothe,4,42,89,24
+154808,Chillicothe,4,38,93,0
+155607,Chillicothe,4,27,75,10
+155608,Chillicothe,4,33,42,10
+155609,Chillicothe,4,61,99,1
+155610,Chillicothe,4,22,89,8
+155611,Chillicothe,4,43,44,11
+155612,Chillicothe,4,63,62,19
+156419,Chillicothe,4,16,18,0
+156420,Chillicothe,4,39,62,5
+156421,Chillicothe,4,41,59,27
+156422,Chillicothe,4,20,55,25
+156423,Chillicothe,4,29,16,22
+157232,Chillicothe,4,42,70,22
+157233,Chillicothe,4,45,68,17
+157234,Chillicothe,4,28,30,22
+157235,Chillicothe,4,57,43,24
+157236,Chillicothe,4,58,98,25
+158044,Chillicothe,4,64,64,27
+158045,Chillicothe,4,4,48,26
+158046,Chillicothe,4,49,89,0
+158047,Chillicothe,4,59,53,4
+158048,Chillicothe,4,28,53,25
+158860,Chillicothe,4,35,14,3
+158861,Chillicothe,4,7,99,23
+158862,Chillicothe,4,14,70,4
+158863,Chillicothe,4,11,17,23
+158864,Chillicothe,4,31,50,14
+159676,Chillicothe,4,22,47,11
+159677,Chillicothe,4,2,35,16
+159678,Chillicothe,4,21,21,17
+160493,Chillicothe,4,2,45,19
+160494,Chillicothe,4,60,88,4
+160495,Chillicothe,4,38,77,7
+161309,Chillicothe,4,8,36,17
+161310,Chillicothe,4,8,1,4
+161311,Chillicothe,4,41,86,17
+161312,Chillicothe,4,28,59,29
+162125,Chillicothe,4,58,60,10
+162126,Chillicothe,4,5,7,7
+162127,Chillicothe,4,7,51,6
+162128,Chillicothe,4,20,49,3
+162941,Chillicothe,4,59,38,5
+162942,Chillicothe,4,52,59,16
+163755,Chillicothe,4,20,91,4
+144367,Chillicothe,4,54,67,25
+144368,Chillicothe,4,8,88,15
+145171,Chillicothe,4,44,81,22
+145172,Chillicothe,4,14,0,18
+145173,Chillicothe,4,37,37,6
+145174,Chillicothe,4,45,56,18
+145175,Chillicothe,4,46,31,15
+145974,Chillicothe,4,3,92,27
+145975,Chillicothe,4,39,95,8
+145976,Chillicothe,4,51,14,10
+145977,Chillicothe,4,51,69,7
+145978,Chillicothe,4,41,70,17
+145979,Chillicothe,4,40,6,25
+145980,Chillicothe,4,7,38,29
+146759,Chillicothe,4,64,43,28
+146760,Chillicothe,4,13,21,28
+146761,Chillicothe,4,43,92,14
+146767,Chillicothe,4,3,67,7
+146775,Chillicothe,4,13,56,28
+146776,Chillicothe,4,21,7,6
+146777,Chillicothe,4,1,22,5
+146778,Chillicothe,4,41,79,19
+146779,Chillicothe,4,20,18,24
+146780,Chillicothe,4,45,95,8
+146781,Chillicothe,4,52,19,25
+146782,Chillicothe,4,5,76,15
+146783,Chillicothe,4,33,57,16
+146784,Chillicothe,4,52,70,13
+147563,Chillicothe,4,35,15,11
+147564,Chillicothe,4,53,95,8
+147565,Chillicothe,4,17,13,26
+147566,Chillicothe,4,50,11,27
+147568,Chillicothe,4,31,54,0
+147569,Chillicothe,4,46,1,19
+147570,Chillicothe,4,34,62,24
+147571,Chillicothe,4,4,24,11
+147572,Chillicothe,4,25,34,19
+147573,Chillicothe,4,44,53,24
+147574,Chillicothe,4,55,38,3
+147578,Chillicothe,4,51,62,6
+147579,Chillicothe,4,56,14,3
+147580,Chillicothe,4,33,68,12
+147581,Chillicothe,4,6,47,0
+147582,Chillicothe,4,31,54,4
+147583,Chillicothe,4,8,50,16
+147584,Chillicothe,4,15,19,27
+147585,Chillicothe,4,19,64,10
+147586,Chillicothe,4,55,91,7
+147587,Chillicothe,4,39,78,13
+147588,Chillicothe,4,27,45,9
+148369,Chillicothe,4,16,47,26
+148370,Chillicothe,4,19,26,26
+148371,Chillicothe,4,20,66,9
+148372,Chillicothe,4,16,58,6
+148373,Chillicothe,4,12,78,19
+148374,Chillicothe,4,0,47,11
+148375,Chillicothe,4,22,52,11
+148376,Chillicothe,4,10,54,14
+148377,Chillicothe,4,2,86,1
+148378,Chillicothe,4,42,82,18
+148379,Chillicothe,4,43,21,6
+148382,Chillicothe,4,52,42,8
+148383,Chillicothe,4,19,58,7
+148384,Chillicothe,4,45,9,21
+148385,Chillicothe,4,15,26,28
+148386,Chillicothe,4,61,35,28
+148387,Chillicothe,4,29,21,13
+148388,Chillicothe,4,52,18,5
+148389,Chillicothe,4,40,25,7
+148390,Chillicothe,4,48,21,8
+148391,Chillicothe,4,55,68,4
+149170,Chillicothe,4,11,89,2
+149171,Chillicothe,4,61,15,11
+149172,Chillicothe,4,16,78,13
+149173,Chillicothe,4,22,43,6
+149174,Chillicothe,4,43,20,20
+149175,Chillicothe,4,5,51,21
+149176,Chillicothe,4,46,59,21
+149177,Chillicothe,4,7,96,21
+149178,Chillicothe,4,15,42,0
+149179,Chillicothe,4,42,75,7
+149180,Chillicothe,4,32,99,22
+149181,Chillicothe,4,19,41,19
+149182,Chillicothe,4,52,33,17
+149184,Chillicothe,4,8,62,18
+149185,Chillicothe,4,62,70,20
+149186,Chillicothe,4,21,84,28
+149187,Chillicothe,4,45,28,27
+149188,Chillicothe,4,29,36,26
+149189,Chillicothe,4,7,33,13
+149193,Chillicothe,4,49,21,13
+149969,Chillicothe,4,54,90,20
+149970,Chillicothe,4,56,62,7
+149971,Chillicothe,4,8,75,27
+149972,Chillicothe,4,46,31,3
+149973,Chillicothe,4,19,11,29
+149974,Chillicothe,4,50,99,27
+149975,Chillicothe,4,19,61,4
+149976,Chillicothe,4,60,34,27
+149977,Chillicothe,4,31,31,7
+149978,Chillicothe,4,37,89,11
+149979,Chillicothe,4,1,73,19
+149980,Chillicothe,4,40,59,27
+149981,Chillicothe,4,53,99,19
+149982,Chillicothe,4,56,92,11
+149983,Chillicothe,4,22,98,15
+149984,Chillicothe,4,9,68,19
+149985,Chillicothe,4,62,91,18
+149986,Chillicothe,4,0,3,10
+149987,Chillicothe,4,45,16,1
+149988,Chillicothe,4,35,77,16
+149989,Chillicothe,4,55,43,10
+150771,Chillicothe,4,40,72,28
+150772,Chillicothe,4,26,1,15
+150773,Chillicothe,4,1,90,18
+150774,Chillicothe,4,20,30,11
+150775,Chillicothe,4,20,14,21
+150776,Chillicothe,4,31,4,7
+150777,Chillicothe,4,17,76,2
+150778,Chillicothe,4,27,60,24
+150779,Chillicothe,4,64,18,7
+150780,Chillicothe,4,4,93,13
+150781,Chillicothe,4,16,50,6
+150782,Chillicothe,4,5,35,18
+150783,Chillicothe,4,14,79,5
+150784,Chillicothe,4,62,50,3
+150785,Chillicothe,4,20,59,14
+150786,Chillicothe,4,17,44,23
+150787,Chillicothe,4,1,66,18
+150788,Chillicothe,4,10,95,20
+150789,Chillicothe,4,54,92,6
+150790,Chillicothe,4,17,29,24
+150791,Chillicothe,4,8,48,28
+151572,Chillicothe,4,51,95,25
+151573,Chillicothe,4,47,65,18
+151574,Chillicothe,4,49,87,23
+151575,Chillicothe,4,9,70,15
+151576,Chillicothe,4,34,10,13
+151577,Chillicothe,4,40,21,25
+151578,Chillicothe,4,18,44,29
+151579,Chillicothe,4,24,31,6
+151580,Chillicothe,4,61,53,13
+151581,Chillicothe,4,40,56,7
+151582,Chillicothe,4,28,14,6
+151583,Chillicothe,4,14,85,26
+151584,Chillicothe,4,55,17,29
+151585,Chillicothe,4,50,24,18
+151586,Chillicothe,4,56,70,14
+151587,Chillicothe,4,59,40,19
+151588,Chillicothe,4,59,24,21
+151589,Chillicothe,4,14,75,5
+151590,Chillicothe,4,54,5,11
+151591,Chillicothe,4,35,15,9
+151592,Chillicothe,4,42,58,25
+151593,Chillicothe,4,62,55,5
+152370,Chillicothe,4,42,63,17
+152371,Chillicothe,4,6,7,15
+152372,Chillicothe,4,41,3,29
+152373,Chillicothe,4,3,86,21
+152374,Chillicothe,4,7,70,8
+152375,Chillicothe,4,50,79,1
+152376,Chillicothe,4,2,24,4
+152377,Chillicothe,4,23,12,28
+152378,Chillicothe,4,10,90,8
+152379,Chillicothe,4,22,85,8
+152380,Chillicothe,4,35,81,22
+152381,Chillicothe,4,54,63,7
+152382,Chillicothe,4,35,87,2
+152383,Chillicothe,4,37,66,4
+152384,Chillicothe,4,63,83,24
+152385,Chillicothe,4,32,83,20
+152386,Chillicothe,4,17,40,16
+152387,Chillicothe,4,40,93,13
+152388,Chillicothe,4,47,12,17
+152389,Chillicothe,4,3,83,15
+152390,Chillicothe,4,60,21,12
+152391,Chillicothe,4,18,2,24
+152392,Chillicothe,4,64,94,29
+152393,Chillicothe,4,62,36,16
+152394,Chillicothe,4,29,15,0
+153170,Chillicothe,4,31,53,16
+153171,Chillicothe,4,17,74,2
+153172,Chillicothe,4,12,48,25
+153173,Chillicothe,4,31,89,24
+153174,Chillicothe,4,58,41,9
+153175,Chillicothe,4,38,9,1
+153176,Chillicothe,4,63,75,15
+153177,Chillicothe,4,30,13,19
+153178,Chillicothe,4,53,33,26
+153179,Chillicothe,4,10,81,26
+153180,Chillicothe,4,21,21,22
+153181,Chillicothe,4,49,40,27
+153182,Chillicothe,4,31,53,0
+153183,Chillicothe,4,61,56,19
+153184,Chillicothe,4,52,84,16
+153185,Chillicothe,4,3,33,14
+153186,Chillicothe,4,28,96,21
+153187,Chillicothe,4,22,7,5
+153188,Chillicothe,4,22,83,7
+153189,Chillicothe,4,43,54,4
+153190,Chillicothe,4,24,77,22
+153191,Chillicothe,4,30,49,10
+153192,Chillicothe,4,29,42,20
+153193,Chillicothe,4,1,74,26
+153194,Chillicothe,4,28,7,4
+153195,Chillicothe,4,62,10,9
+153973,Chillicothe,4,5,20,1
+153974,Chillicothe,4,45,94,16
+153975,Chillicothe,4,7,52,7
+153976,Chillicothe,4,26,71,26
+153977,Chillicothe,4,44,77,10
+153978,Chillicothe,4,45,21,28
+153979,Chillicothe,4,48,74,19
+153980,Chillicothe,4,34,5,23
+153981,Chillicothe,4,14,0,5
+153982,Chillicothe,4,49,50,8
+153983,Chillicothe,4,50,56,16
+153984,Chillicothe,4,42,34,13
+153985,Chillicothe,4,57,83,26
+153986,Chillicothe,4,40,32,16
+153987,Chillicothe,4,35,96,6
+153988,Chillicothe,4,61,6,24
+153989,Chillicothe,4,38,11,7
+153990,Chillicothe,4,25,72,8
+153991,Chillicothe,4,14,4,11
+153992,Chillicothe,4,10,0,21
+153993,Chillicothe,4,0,30,26
+153994,Chillicothe,4,0,54,12
+153995,Chillicothe,4,2,60,10
+153996,Chillicothe,4,27,15,2
+153997,Chillicothe,4,19,64,28
+153998,Chillicothe,4,16,77,5
+154778,Chillicothe,4,32,94,5
+154779,Chillicothe,4,62,18,13
+154780,Chillicothe,4,36,37,27
+154781,Chillicothe,4,17,56,25
+154782,Chillicothe,4,13,8,15
+154783,Chillicothe,4,40,67,15
+154784,Chillicothe,4,52,76,11
+154785,Chillicothe,4,2,68,12
+154786,Chillicothe,4,12,99,4
+154787,Chillicothe,4,31,25,4
+154788,Chillicothe,4,38,87,26
+154789,Chillicothe,4,44,49,14
+154790,Chillicothe,4,21,65,22
+154791,Chillicothe,4,56,35,26
+154792,Chillicothe,4,58,98,29
+154793,Chillicothe,4,15,13,26
+154794,Chillicothe,4,52,41,10
+154795,Chillicothe,4,41,97,20
+154796,Chillicothe,4,2,99,22
+154797,Chillicothe,4,1,19,20
+154798,Chillicothe,4,23,96,14
+154799,Chillicothe,4,61,56,2
+154800,Chillicothe,4,12,43,8
+154801,Chillicothe,4,38,63,29
+154802,Chillicothe,4,8,0,7
+154803,Chillicothe,4,2,63,10
+154804,Chillicothe,4,47,95,22
+155582,Chillicothe,4,44,8,1
+155583,Chillicothe,4,37,38,25
+155584,Chillicothe,4,62,38,0
+155585,Chillicothe,4,36,32,15
+155586,Chillicothe,4,62,20,18
+155587,Chillicothe,4,19,41,10
+155588,Chillicothe,4,17,7,2
+155589,Chillicothe,4,14,27,0
+155590,Chillicothe,4,39,14,6
+155591,Chillicothe,4,55,24,2
+155592,Chillicothe,4,25,50,9
+155593,Chillicothe,4,39,70,10
+155594,Chillicothe,4,56,59,15
+155595,Chillicothe,4,8,63,24
+155596,Chillicothe,4,58,28,26
+155597,Chillicothe,4,1,46,13
+155598,Chillicothe,4,6,94,11
+155599,Chillicothe,4,57,90,22
+155600,Chillicothe,4,3,20,24
+155601,Chillicothe,4,11,8,11
+155602,Chillicothe,4,11,93,5
+155603,Chillicothe,4,50,3,11
+155604,Chillicothe,4,55,33,3
+155605,Chillicothe,4,58,21,7
+155606,Chillicothe,4,23,86,14
+156393,Chillicothe,4,50,39,16
+156394,Chillicothe,4,53,81,3
+156395,Chillicothe,4,29,66,5
+156396,Chillicothe,4,41,18,28
+156397,Chillicothe,4,52,47,11
+156398,Chillicothe,4,19,81,6
+156399,Chillicothe,4,31,62,3
+156400,Chillicothe,4,9,99,11
+156401,Chillicothe,4,0,94,18
+156402,Chillicothe,4,17,36,21
+156403,Chillicothe,4,10,11,4
+156404,Chillicothe,4,8,78,7
+156405,Chillicothe,4,23,36,0
+156406,Chillicothe,4,5,99,28
+156407,Chillicothe,4,13,90,16
+156408,Chillicothe,4,7,20,21
+156409,Chillicothe,4,54,81,2
+156410,Chillicothe,4,36,49,21
+156411,Chillicothe,4,55,17,8
+156412,Chillicothe,4,47,49,1
+156413,Chillicothe,4,49,62,2
+156414,Chillicothe,4,32,39,20
+156415,Chillicothe,4,24,51,14
+156416,Chillicothe,4,43,49,24
+156417,Chillicothe,4,27,2,8
+156418,Chillicothe,4,12,66,26
+157206,Chillicothe,4,23,65,13
+157207,Chillicothe,4,21,16,24
+157208,Chillicothe,4,4,95,28
+157209,Chillicothe,4,46,67,16
+157210,Chillicothe,4,52,87,29
+157211,Chillicothe,4,20,54,28
+157212,Chillicothe,4,15,3,10
+157213,Chillicothe,4,30,35,17
+157214,Chillicothe,4,3,40,15
+157215,Chillicothe,4,9,2,26
+157216,Chillicothe,4,14,95,7
+157217,Chillicothe,4,25,67,7
+157218,Chillicothe,4,28,95,6
+157219,Chillicothe,4,58,4,28
+157220,Chillicothe,4,49,45,13
+157221,Chillicothe,4,64,68,4
+157222,Chillicothe,4,2,46,12
+157223,Chillicothe,4,11,70,16
+157224,Chillicothe,4,38,82,24
+157225,Chillicothe,4,14,23,21
+157226,Chillicothe,4,58,43,13
+157227,Chillicothe,4,11,45,2
+157228,Chillicothe,4,24,31,10
+157229,Chillicothe,4,8,74,8
+157230,Chillicothe,4,58,41,23
+157231,Chillicothe,4,1,9,24
+158022,Chillicothe,4,42,83,19
+158023,Chillicothe,4,17,21,29
+158024,Chillicothe,4,46,21,4
+158025,Chillicothe,4,46,89,8
+158026,Chillicothe,4,55,49,0
+158027,Chillicothe,4,43,57,23
+158028,Chillicothe,4,30,65,11
+158029,Chillicothe,4,1,72,11
+158030,Chillicothe,4,32,71,29
+158031,Chillicothe,4,35,62,5
+158032,Chillicothe,4,56,55,6
+158033,Chillicothe,4,63,62,12
+158034,Chillicothe,4,8,29,2
+158035,Chillicothe,4,58,39,28
+158036,Chillicothe,4,36,11,13
+158037,Chillicothe,4,56,29,23
+158038,Chillicothe,4,43,66,24
+158039,Chillicothe,4,13,89,12
+158040,Chillicothe,4,50,98,1
+158041,Chillicothe,4,4,22,9
+158042,Chillicothe,4,63,30,26
+158043,Chillicothe,4,52,79,22
+158841,Chillicothe,4,55,64,26
+158842,Chillicothe,4,22,51,29
+158843,Chillicothe,4,41,78,22
+158844,Chillicothe,4,5,66,20
+158845,Chillicothe,4,58,86,27
+158846,Chillicothe,4,32,34,15
+158847,Chillicothe,4,0,7,7
+158848,Chillicothe,4,18,79,4
+158849,Chillicothe,4,17,11,23
+158850,Chillicothe,4,28,44,20
+158851,Chillicothe,4,45,77,26
+158852,Chillicothe,4,45,73,10
+158853,Chillicothe,4,43,20,20
+158854,Chillicothe,4,3,78,25
+158855,Chillicothe,4,56,12,23
+158856,Chillicothe,4,25,6,15
+158857,Chillicothe,4,41,84,19
+158858,Chillicothe,4,21,88,15
+158859,Chillicothe,4,9,58,19
+159656,Chillicothe,4,50,86,26
+159657,Chillicothe,4,10,11,8
+159658,Chillicothe,4,35,15,19
+159659,Chillicothe,4,53,37,1
+159660,Chillicothe,4,7,67,27
+159661,Chillicothe,4,22,9,11
+159662,Chillicothe,4,57,61,7
+159663,Chillicothe,4,8,19,28
+159664,Chillicothe,4,62,70,23
+159665,Chillicothe,4,6,9,4
+159666,Chillicothe,4,63,42,0
+159667,Chillicothe,4,58,13,14
+159668,Chillicothe,4,13,21,20
+159669,Chillicothe,4,13,51,1
+159670,Chillicothe,4,32,46,1
+159671,Chillicothe,4,27,56,19
+159672,Chillicothe,4,28,3,18
+159673,Chillicothe,4,57,77,10
+159674,Chillicothe,4,33,14,13
+159675,Chillicothe,4,20,3,28
+160473,Chillicothe,4,63,9,9
+160474,Chillicothe,4,10,0,18
+160475,Chillicothe,4,45,58,3
+160476,Chillicothe,4,6,77,16
+160477,Chillicothe,4,20,99,3
+160478,Chillicothe,4,33,11,18
+160479,Chillicothe,4,12,5,23
+160480,Chillicothe,4,63,64,8
+160481,Chillicothe,4,13,38,5
+160482,Chillicothe,4,1,22,15
+160483,Chillicothe,4,47,29,14
+160484,Chillicothe,4,49,63,26
+160485,Chillicothe,4,14,9,19
+160486,Chillicothe,4,9,7,8
+160487,Chillicothe,4,18,42,4
+160488,Chillicothe,4,9,67,13
+160489,Chillicothe,4,32,56,10
+160490,Chillicothe,4,38,74,22
+160491,Chillicothe,4,55,43,9
+160492,Chillicothe,4,52,23,25
+161291,Chillicothe,4,27,18,22
+161298,Chillicothe,4,16,11,14
+161299,Chillicothe,4,56,42,17
+161300,Chillicothe,4,41,97,23
+161301,Chillicothe,4,38,96,23
+161302,Chillicothe,4,3,61,13
+161303,Chillicothe,4,24,15,3
+161304,Chillicothe,4,3,48,3
+161305,Chillicothe,4,23,55,26
+161306,Chillicothe,4,36,24,22
+161307,Chillicothe,4,57,17,9
+161308,Chillicothe,4,64,73,27
+162115,Chillicothe,4,56,77,3
+162116,Chillicothe,4,10,76,15
+162117,Chillicothe,4,38,51,29
+162118,Chillicothe,4,32,43,0
+162119,Chillicothe,4,32,96,13
+162120,Chillicothe,4,41,35,15
+162121,Chillicothe,4,39,41,2
+162122,Chillicothe,4,54,56,24
+162123,Chillicothe,4,43,95,20
+162124,Chillicothe,4,49,68,26
+162940,Chillicothe,4,53,21,17
+163747,Chillicothe,4,5,89,20
+164561,Chillicothe,4,53,25,6
+164562,Chillicothe,4,27,14,29
+164563,Chillicothe,4,45,91,21
+165376,Chillicothe,4,62,48,12
+165377,Chillicothe,4,16,41,14
+165378,Chillicothe,4,47,5,1
+166193,Chillicothe,4,43,57,6
+166194,Chillicothe,4,57,70,29
+171102,Newark,5,21,73,20
+171103,Newark,5,16,77,24
+171104,Newark,5,59,9,1
+171105,Newark,5,1,82,24
+171106,Newark,5,39,16,7
+171107,Newark,5,18,41,0
+171913,Newark,5,64,40,21
+171914,Newark,5,58,71,15
+171915,Newark,5,33,73,21
+171916,Newark,5,4,9,7
+171917,Newark,5,21,36,27
+171918,Newark,5,3,64,17
+171919,Newark,5,27,56,28
+171920,Newark,5,8,10,10
+171921,Newark,5,6,33,20
+172722,Newark,5,25,32,22
+172723,Newark,5,31,69,10
+172724,Newark,5,2,12,20
+172725,Newark,5,31,27,18
+172726,Newark,5,54,26,8
+172727,Newark,5,59,64,28
+172728,Newark,5,16,93,7
+172729,Newark,5,26,4,8
+172730,Newark,5,45,95,28
+172731,Newark,5,22,92,8
+172732,Newark,5,37,10,1
+172733,Newark,5,64,46,4
+173519,Newark,5,4,85,15
+173520,Newark,5,14,17,5
+173521,Newark,5,63,30,6
+173522,Newark,5,20,7,27
+173523,Newark,5,40,5,28
+173524,Newark,5,4,88,16
+173525,Newark,5,38,31,2
+173526,Newark,5,31,89,12
+173527,Newark,5,63,30,22
+173528,Newark,5,47,6,1
+173529,Newark,5,46,92,26
+173530,Newark,5,14,35,4
+173531,Newark,5,62,43,11
+173532,Newark,5,42,43,28
+173533,Newark,5,34,32,23
+173534,Newark,5,45,3,20
+173535,Newark,5,26,71,16
+173536,Newark,5,23,10,11
+173537,Newark,5,37,17,15
+173538,Newark,5,60,75,15
+173539,Newark,5,55,90,26
+173540,Newark,5,49,67,1
+173541,Newark,5,19,66,10
+173542,Newark,5,32,81,8
+173543,Newark,5,60,34,19
+173545,Newark,5,61,32,28
+173546,Newark,5,47,70,26
+173547,Newark,5,47,5,4
+174333,Newark,5,62,66,8
+174334,Newark,5,43,9,15
+174335,Newark,5,26,86,8
+174336,Newark,5,50,61,14
+174337,Newark,5,24,78,9
+174338,Newark,5,60,26,20
+174339,Newark,5,10,12,4
+174340,Newark,5,59,19,3
+174341,Newark,5,40,83,26
+174342,Newark,5,35,25,5
+174343,Newark,5,46,37,5
+174344,Newark,5,40,55,19
+174345,Newark,5,49,63,27
+174346,Newark,5,6,9,6
+174347,Newark,5,10,46,29
+174348,Newark,5,53,89,5
+174349,Newark,5,33,18,1
+174350,Newark,5,21,22,22
+174351,Newark,5,52,83,11
+174352,Newark,5,21,89,14
+174353,Newark,5,34,10,17
+174354,Newark,5,19,35,9
+174355,Newark,5,63,10,5
+174356,Newark,5,17,71,5
+174357,Newark,5,26,77,4
+174358,Newark,5,34,49,26
+174359,Newark,5,44,81,1
+174360,Newark,5,2,32,18
+174361,Newark,5,45,24,11
+175145,Newark,5,5,63,23
+175146,Newark,5,0,18,17
+175147,Newark,5,3,36,11
+175148,Newark,5,14,16,10
+175149,Newark,5,2,5,2
+175150,Newark,5,24,80,18
+175151,Newark,5,64,32,3
+175152,Newark,5,17,63,7
+175153,Newark,5,51,65,14
+175154,Newark,5,55,66,19
+175155,Newark,5,10,79,15
+175156,Newark,5,24,52,26
+175157,Newark,5,31,85,8
+175158,Newark,5,50,16,27
+175159,Newark,5,55,6,21
+175160,Newark,5,56,90,27
+175161,Newark,5,39,40,18
+175162,Newark,5,61,73,13
+175163,Newark,5,35,22,3
+175164,Newark,5,58,51,11
+175165,Newark,5,57,92,21
+175166,Newark,5,39,39,4
+175167,Newark,5,36,37,13
+175168,Newark,5,39,27,9
+175169,Newark,5,39,38,15
+175170,Newark,5,36,95,21
+175171,Newark,5,44,34,20
+175172,Newark,5,13,4,29
+175173,Newark,5,36,72,0
+175174,Newark,5,30,77,5
+175175,Newark,5,32,80,10
+175958,Newark,5,46,4,10
+175959,Newark,5,39,9,26
+175960,Newark,5,33,64,5
+175961,Newark,5,30,24,13
+175962,Newark,5,24,14,9
+175963,Newark,5,45,63,12
+175964,Newark,5,18,36,19
+175965,Newark,5,5,87,14
+175966,Newark,5,15,78,24
+175967,Newark,5,43,23,11
+175968,Newark,5,45,14,11
+175969,Newark,5,55,84,5
+175970,Newark,5,3,56,26
+175971,Newark,5,47,63,7
+175972,Newark,5,40,86,7
+175973,Newark,5,10,90,28
+175974,Newark,5,52,52,3
+175975,Newark,5,15,43,25
+175976,Newark,5,28,8,28
+175977,Newark,5,33,77,1
+175978,Newark,5,43,85,28
+175979,Newark,5,45,48,11
+175980,Newark,5,52,81,3
+175981,Newark,5,38,10,5
+175982,Newark,5,43,26,27
+175983,Newark,5,38,33,12
+175984,Newark,5,19,78,13
+175985,Newark,5,25,15,11
+175986,Newark,5,30,8,1
+175987,Newark,5,16,7,19
+175988,Newark,5,41,9,28
+175989,Newark,5,63,79,17
+176771,Newark,5,4,64,23
+176772,Newark,5,54,34,16
+176773,Newark,5,38,43,20
+176774,Newark,5,54,56,27
+176775,Newark,5,32,32,15
+176777,Newark,5,52,63,5
+176778,Newark,5,12,86,4
+176779,Newark,5,31,95,22
+176780,Newark,5,49,55,24
+176781,Newark,5,41,44,25
+176782,Newark,5,0,56,7
+176783,Newark,5,48,24,9
+176784,Newark,5,38,72,19
+176785,Newark,5,1,14,22
+176786,Newark,5,3,26,24
+176787,Newark,5,14,47,20
+176788,Newark,5,29,93,6
+176789,Newark,5,40,90,16
+176790,Newark,5,4,12,6
+176791,Newark,5,61,31,10
+176792,Newark,5,63,68,11
+176793,Newark,5,45,1,18
+176794,Newark,5,62,45,25
+176795,Newark,5,33,73,8
+176796,Newark,5,13,20,29
+176797,Newark,5,56,63,1
+176798,Newark,5,3,3,15
+176799,Newark,5,48,47,8
+176800,Newark,5,9,44,23
+176801,Newark,5,58,75,12
+176802,Newark,5,46,0,9
+177590,Newark,5,9,50,27
+177591,Newark,5,14,5,20
+177592,Newark,5,13,69,29
+177593,Newark,5,64,10,17
+177596,Newark,5,12,57,20
+177597,Newark,5,58,24,13
+177598,Newark,5,33,55,15
+177599,Newark,5,41,62,7
+177600,Newark,5,20,16,0
+177601,Newark,5,33,35,1
+177602,Newark,5,3,10,23
+177603,Newark,5,39,70,29
+177604,Newark,5,44,91,6
+177605,Newark,5,59,64,0
+177606,Newark,5,56,67,24
+177607,Newark,5,21,63,17
+177608,Newark,5,61,83,5
+177609,Newark,5,26,59,11
+177610,Newark,5,59,93,19
+177611,Newark,5,24,48,29
+177612,Newark,5,4,31,14
+177613,Newark,5,7,85,27
+177614,Newark,5,7,11,18
+177615,Newark,5,11,90,15
+177616,Newark,5,44,94,26
+177617,Newark,5,57,13,1
+177618,Newark,5,2,52,9
+177619,Newark,5,7,12,4
+177620,Newark,5,61,13,23
+177621,Newark,5,53,7,9
+178412,Newark,5,16,15,4
+178413,Newark,5,55,89,15
+178414,Newark,5,23,10,28
+178415,Newark,5,4,99,9
+178416,Newark,5,55,96,4
+178417,Newark,5,44,87,7
+178418,Newark,5,13,87,9
+178419,Newark,5,24,26,1
+178420,Newark,5,19,52,11
+178421,Newark,5,2,23,8
+178423,Newark,5,18,58,14
+178424,Newark,5,41,9,8
+178425,Newark,5,48,52,9
+178426,Newark,5,59,35,26
+178427,Newark,5,63,7,14
+178428,Newark,5,36,67,14
+178429,Newark,5,47,41,6
+178430,Newark,5,59,92,28
+178432,Newark,5,17,69,18
+178433,Newark,5,45,23,7
+178434,Newark,5,54,52,7
+178435,Newark,5,33,87,7
+178436,Newark,5,13,58,1
+178437,Newark,5,27,25,7
+178438,Newark,5,24,48,27
+178439,Newark,5,8,94,7
+178440,Newark,5,14,72,19
+178441,Newark,5,34,3,24
+178442,Newark,5,38,73,18
+178443,Newark,5,56,34,1
+178444,Newark,5,64,39,9
+179233,Newark,5,59,72,21
+179236,Newark,5,24,67,19
+179237,Newark,5,19,10,17
+179238,Newark,5,3,35,3
+179239,Newark,5,20,78,1
+179240,Newark,5,12,46,6
+179241,Newark,5,58,28,24
+179242,Newark,5,0,70,21
+179243,Newark,5,38,77,1
+179244,Newark,5,43,50,15
+179245,Newark,5,25,23,16
+179246,Newark,5,59,73,2
+179247,Newark,5,33,89,6
+179248,Newark,5,39,88,28
+179249,Newark,5,18,81,1
+179250,Newark,5,58,83,13
+179251,Newark,5,29,91,29
+179252,Newark,5,31,3,26
+179253,Newark,5,29,12,25
+179254,Newark,5,2,57,17
+179256,Newark,5,51,27,12
+179257,Newark,5,5,16,13
+179258,Newark,5,54,41,14
+179259,Newark,5,18,13,29
+179260,Newark,5,26,71,18
+179261,Newark,5,30,71,23
+179262,Newark,5,24,78,18
+179263,Newark,5,58,90,27
+179264,Newark,5,31,9,2
+179265,Newark,5,63,53,12
+179266,Newark,5,51,95,7
+179267,Newark,5,61,13,15
+179268,Newark,5,4,68,8
+180057,Newark,5,38,92,28
+180058,Newark,5,61,93,8
+180059,Newark,5,25,44,14
+180060,Newark,5,62,41,14
+180061,Newark,5,1,36,1
+180062,Newark,5,23,15,0
+180063,Newark,5,14,39,0
+180065,Newark,5,59,79,24
+180066,Newark,5,61,75,4
+180067,Newark,5,15,85,19
+180068,Newark,5,63,72,5
+180069,Newark,5,34,91,27
+180070,Newark,5,19,82,26
+180071,Newark,5,39,64,17
+180072,Newark,5,41,95,27
+180073,Newark,5,57,54,25
+180074,Newark,5,4,41,24
+180075,Newark,5,3,91,8
+180076,Newark,5,25,33,17
+180077,Newark,5,49,61,6
+180078,Newark,5,53,78,18
+180080,Newark,5,54,16,11
+180081,Newark,5,28,33,3
+180082,Newark,5,1,8,4
+180083,Newark,5,24,40,25
+180084,Newark,5,61,46,15
+180085,Newark,5,12,94,6
+180086,Newark,5,3,27,18
+180087,Newark,5,8,90,10
+180088,Newark,5,44,54,26
+180089,Newark,5,25,30,18
+180090,Newark,5,56,67,6
+180091,Newark,5,60,7,20
+180092,Newark,5,14,92,2
+180883,Newark,5,6,6,7
+180884,Newark,5,15,90,18
+180885,Newark,5,40,15,2
+180886,Newark,5,55,73,20
+180887,Newark,5,14,15,21
+180888,Newark,5,24,63,5
+180889,Newark,5,28,50,13
+180890,Newark,5,52,14,20
+180891,Newark,5,13,62,25
+180892,Newark,5,22,59,14
+180893,Newark,5,23,30,24
+180894,Newark,5,12,64,6
+180895,Newark,5,24,98,3
+180896,Newark,5,58,42,5
+180897,Newark,5,25,69,28
+180898,Newark,5,48,57,2
+180899,Newark,5,15,85,29
+180900,Newark,5,45,55,15
+180901,Newark,5,34,93,23
+180902,Newark,5,18,90,21
+180903,Newark,5,60,22,29
+180904,Newark,5,25,66,16
+180905,Newark,5,52,44,26
+180906,Newark,5,8,65,3
+180907,Newark,5,35,96,25
+180908,Newark,5,16,7,17
+180909,Newark,5,62,5,15
+180910,Newark,5,4,69,12
+180911,Newark,5,10,60,26
+180912,Newark,5,43,12,18
+180913,Newark,5,35,52,23
+180914,Newark,5,15,38,19
+181710,Newark,5,41,76,0
+181711,Newark,5,38,90,14
+181712,Newark,5,16,52,10
+181713,Newark,5,64,13,4
+181714,Newark,5,46,6,2
+181715,Newark,5,55,96,24
+181716,Newark,5,49,95,27
+181717,Newark,5,28,33,6
+181718,Newark,5,12,16,27
+181720,Newark,5,9,2,27
+181721,Newark,5,26,73,18
+181722,Newark,5,49,10,4
+181724,Newark,5,37,51,27
+181725,Newark,5,52,86,9
+181726,Newark,5,39,48,18
+181727,Newark,5,20,14,27
+181728,Newark,5,60,0,3
+181729,Newark,5,33,3,0
+181730,Newark,5,13,19,8
+181731,Newark,5,42,25,14
+181732,Newark,5,23,21,25
+181733,Newark,5,36,79,23
+181734,Newark,5,12,60,29
+182536,Newark,5,36,49,4
+182537,Newark,5,1,1,25
+182538,Newark,5,58,60,23
+182539,Newark,5,28,17,28
+182540,Newark,5,64,76,7
+182541,Newark,5,20,39,19
+182542,Newark,5,59,51,16
+182543,Newark,5,38,75,8
+182544,Newark,5,8,16,11
+182545,Newark,5,38,56,18
+182546,Newark,5,4,54,1
+182547,Newark,5,56,37,25
+182548,Newark,5,17,2,26
+182552,Newark,5,32,30,26
+182553,Newark,5,38,3,16
+182554,Newark,5,31,44,29
+182555,Newark,5,24,35,27
+182556,Newark,5,41,58,18
+183365,Newark,5,25,63,2
+183366,Newark,5,44,27,17
+183367,Newark,5,57,27,0
+183368,Newark,5,45,73,7
+183369,Newark,5,61,72,19
+183370,Newark,5,27,43,29
+183371,Newark,5,10,77,12
+183372,Newark,5,25,87,17
+183373,Newark,5,51,15,19
+183374,Newark,5,33,81,25
+183375,Newark,5,49,92,9
+183376,Newark,5,63,90,24
+183377,Newark,5,43,78,6
+184195,Newark,5,61,40,25
+184196,Newark,5,32,94,18
+184197,Newark,5,3,59,6
+184198,Newark,5,52,82,19
+184199,Newark,5,35,34,8
+184200,Newark,5,62,8,7
+184201,Newark,5,22,93,5
+184202,Newark,5,25,16,13
+184203,Newark,5,19,51,21
+184204,Newark,5,46,64,10
+184205,Newark,5,16,75,4
+185025,Newark,5,56,53,2
+185026,Newark,5,5,6,0
+185027,Newark,5,19,54,24
+185028,Newark,5,33,65,4
+185855,Newark,5,64,22,6
+185856,Newark,5,64,89,7
+185857,Newark,5,36,72,27
+185858,Newark,5,48,86,16
+186688,Newark,5,41,7,12
+186689,Newark,5,54,52,23
+180915,Newark,5,35,12,12
+180916,Newark,5,59,30,27
+180917,Newark,5,51,74,18
+181736,Newark,5,53,97,26
+181737,Newark,5,45,41,23
+181738,Newark,5,20,25,0
+181739,Newark,5,3,84,5
+181740,Newark,5,35,71,21
+181741,Newark,5,42,27,2
+181742,Newark,5,31,20,17
+181743,Newark,5,19,0,3
+181744,Newark,5,61,12,11
+182551,Newark,5,26,10,12
+182557,Newark,5,37,48,6
+182558,Newark,5,22,13,2
+182559,Newark,5,52,85,28
+182560,Newark,5,7,28,23
+182561,Newark,5,44,76,6
+183380,Newark,5,3,10,25
+183383,Newark,5,12,16,7
+183384,Newark,5,20,7,7
+183385,Newark,5,36,1,4
+183386,Newark,5,12,51,20
+184206,Newark,5,24,6,21
+184207,Newark,5,23,49,6
+184208,Newark,5,8,28,9
+184209,Newark,5,30,75,14
+184210,Newark,5,39,55,14
+185038,Newark,5,58,61,4
+185039,Newark,5,64,7,11
+185040,Newark,5,47,40,5
+185031,Canton,6,60,33,22
+185032,Canton,6,62,34,9
+182562,Canton,6,21,34,12
+182563,Canton,6,11,6,1
+182564,Canton,6,3,31,25
+182565,Canton,6,49,71,10
+182566,Canton,6,41,31,21
+182567,Canton,6,10,84,8
+182568,Canton,6,34,57,2
+182569,Canton,6,53,14,22
+182570,Canton,6,52,75,3
+182571,Canton,6,5,26,28
+183381,Canton,6,19,17,18
+183382,Canton,6,48,4,11
+183387,Canton,6,17,71,6
+183388,Canton,6,9,10,23
+183389,Canton,6,60,64,7
+183390,Canton,6,50,90,26
+183391,Canton,6,27,42,11
+183392,Canton,6,51,31,7
+183393,Canton,6,45,34,15
+183394,Canton,6,61,2,27
+183395,Canton,6,11,75,2
+183396,Canton,6,17,66,18
+183397,Canton,6,33,64,3
+183398,Canton,6,14,75,17
+183399,Canton,6,42,70,24
+183400,Canton,6,50,71,6
+184211,Canton,6,59,89,5
+184212,Canton,6,47,19,0
+184213,Canton,6,62,2,17
+184214,Canton,6,9,50,18
+184215,Canton,6,47,89,7
+184216,Canton,6,44,57,27
+184217,Canton,6,16,80,7
+184218,Canton,6,60,10,17
+184219,Canton,6,47,75,10
+184220,Canton,6,22,13,24
+184221,Canton,6,22,60,29
+184222,Canton,6,4,96,20
+184223,Canton,6,63,28,20
+184224,Canton,6,33,87,18
+184225,Canton,6,22,51,18
+184226,Canton,6,33,50,15
+184227,Canton,6,16,68,21
+184228,Canton,6,5,67,21
+184229,Canton,6,14,87,14
+184230,Canton,6,12,57,22
+185033,Canton,6,39,2,29
+185034,Canton,6,5,28,21
+185035,Canton,6,17,40,3
+185036,Canton,6,49,15,5
+185037,Canton,6,0,86,16
+185041,Canton,6,42,20,26
+185042,Canton,6,59,71,3
+185043,Canton,6,47,53,10
+185044,Canton,6,22,99,5
+185045,Canton,6,6,96,3
+185046,Canton,6,13,3,15
+185047,Canton,6,31,31,25
+185048,Canton,6,27,87,10
+185049,Canton,6,25,20,11
+185050,Canton,6,40,21,17
+185051,Canton,6,43,72,26
+185052,Canton,6,13,15,15
+185053,Canton,6,63,86,24
+185054,Canton,6,54,97,10
+185055,Canton,6,37,58,18
+185056,Canton,6,18,13,11
+185057,Canton,6,44,37,8
+185058,Canton,6,32,24,12
+185059,Canton,6,48,54,15
+185861,Canton,6,0,63,0
+185862,Canton,6,33,64,19
+185863,Canton,6,26,64,25
+185864,Canton,6,8,60,25
+185865,Canton,6,35,26,14
+185866,Canton,6,23,1,13
+185867,Canton,6,43,63,13
+185868,Canton,6,2,90,28
+185869,Canton,6,50,68,4
+185870,Canton,6,3,66,9
+185871,Canton,6,49,27,23
+185872,Canton,6,43,5,23
+185873,Canton,6,63,81,22
+185874,Canton,6,8,46,5
+185875,Canton,6,23,79,3
+185876,Canton,6,13,17,29
+185877,Canton,6,42,48,1
+185878,Canton,6,63,46,28
+185879,Canton,6,41,49,21
+185880,Canton,6,44,40,5
+185881,Canton,6,28,32,10
+185882,Canton,6,19,78,18
+185883,Canton,6,50,96,25
+185884,Canton,6,16,81,15
+185885,Canton,6,20,36,16
+185886,Canton,6,23,48,7
+185887,Canton,6,59,33,24
+185888,Canton,6,30,88,4
+185889,Canton,6,41,66,9
+186693,Canton,6,28,1,23
+186694,Canton,6,26,43,12
+186695,Canton,6,25,15,3
+186696,Canton,6,60,21,7
+186697,Canton,6,59,99,4
+186698,Canton,6,49,62,19
+186699,Canton,6,54,55,20
+186700,Canton,6,52,16,21
+186701,Canton,6,30,62,7
+186702,Canton,6,6,55,1
+186703,Canton,6,20,51,12
+186704,Canton,6,61,94,27
+186705,Canton,6,45,55,15
+186706,Canton,6,51,18,28
+186707,Canton,6,34,46,9
+186708,Canton,6,37,0,18
+186709,Canton,6,39,8,15
+186710,Canton,6,47,15,25
+186711,Canton,6,4,44,15
+186712,Canton,6,29,20,3
+186713,Canton,6,10,45,6
+186714,Canton,6,59,19,7
+186715,Canton,6,64,21,5
+186716,Canton,6,9,70,7
+186717,Canton,6,2,58,5
+186718,Canton,6,44,78,25
+186719,Canton,6,11,7,3
+186720,Canton,6,3,97,24
+186721,Canton,6,32,84,18
+187528,Canton,6,7,61,23
+187529,Canton,6,63,57,4
+187530,Canton,6,11,88,22
+187531,Canton,6,11,39,0
+187532,Canton,6,15,13,8
+187533,Canton,6,57,62,27
+187534,Canton,6,4,59,23
+187535,Canton,6,24,63,16
+187536,Canton,6,42,64,23
+187537,Canton,6,33,83,27
+187538,Canton,6,22,54,8
+187539,Canton,6,2,31,12
+187540,Canton,6,35,7,17
+187541,Canton,6,36,67,14
+187542,Canton,6,55,16,0
+187543,Canton,6,36,35,3
+187544,Canton,6,20,50,28
+187545,Canton,6,36,4,4
+187546,Canton,6,25,55,1
+187547,Canton,6,63,26,19
+187549,Canton,6,0,53,16
+187550,Canton,6,39,65,16
+187551,Canton,6,27,78,22
+187552,Canton,6,0,43,21
+187553,Canton,6,38,5,28
+187554,Canton,6,48,37,13
+188362,Canton,6,63,4,5
+188363,Canton,6,53,9,4
+188364,Canton,6,3,12,7
+188365,Canton,6,27,75,2
+188366,Canton,6,42,75,4
+188367,Canton,6,15,78,13
+188368,Canton,6,11,8,22
+188369,Canton,6,12,26,5
+188370,Canton,6,57,97,0
+188371,Canton,6,12,80,11
+188372,Canton,6,43,3,2
+188373,Canton,6,30,21,18
+188374,Canton,6,56,72,0
+188375,Canton,6,30,54,20
+188376,Canton,6,61,22,22
+188377,Canton,6,56,3,16
+188378,Canton,6,9,8,2
+188379,Canton,6,35,11,9
+188380,Canton,6,14,80,10
+188381,Canton,6,9,56,4
+188382,Canton,6,26,57,4
+188383,Canton,6,27,21,11
+188384,Canton,6,18,79,23
+188385,Canton,6,20,11,25
+188386,Canton,6,25,80,17
+188387,Canton,6,10,95,27
+188388,Canton,6,24,88,17
+189196,Canton,6,17,40,0
+189197,Canton,6,39,45,0
+189198,Canton,6,62,88,20
+189199,Canton,6,42,13,7
+189200,Canton,6,35,16,13
+189201,Canton,6,16,10,6
+189202,Canton,6,12,18,5
+189203,Canton,6,17,16,20
+189204,Canton,6,22,77,24
+189205,Canton,6,12,11,21
+189206,Canton,6,1,5,13
+189207,Canton,6,39,12,0
+189208,Canton,6,35,66,0
+189209,Canton,6,48,24,16
+189210,Canton,6,30,82,4
+189211,Canton,6,64,79,4
+189212,Canton,6,46,12,18
+189213,Canton,6,13,63,4
+189214,Canton,6,23,18,1
+189215,Canton,6,31,6,10
+189216,Canton,6,35,74,24
+189217,Canton,6,5,77,16
+189218,Canton,6,38,49,23
+189219,Canton,6,16,7,3
+189220,Canton,6,37,53,1
+189221,Canton,6,51,18,19
+189222,Canton,6,16,14,20
+189223,Canton,6,60,97,5
+189224,Canton,6,10,34,20
+190031,Canton,6,2,46,8
+190032,Canton,6,48,80,3
+190033,Canton,6,51,20,12
+190034,Canton,6,20,67,7
+190035,Canton,6,23,26,27
+190036,Canton,6,56,19,18
+190037,Canton,6,34,6,29
+190038,Canton,6,62,1,12
+190039,Canton,6,1,89,5
+190042,Canton,6,62,0,21
+190043,Canton,6,50,5,10
+190044,Canton,6,33,55,2
+190045,Canton,6,19,71,20
+190046,Canton,6,25,4,22
+190047,Canton,6,29,3,9
+190048,Canton,6,63,88,20
+190049,Canton,6,32,89,21
+190050,Canton,6,57,1,29
+190051,Canton,6,20,49,22
+190052,Canton,6,47,18,21
+190053,Canton,6,64,34,15
+190054,Canton,6,46,14,19
+190055,Canton,6,53,18,27
+190056,Canton,6,33,67,11
+190057,Canton,6,27,3,0
+190058,Canton,6,31,79,28
+190059,Canton,6,52,70,11
+190870,Canton,6,2,64,8
+190871,Canton,6,54,5,21
+190872,Canton,6,27,41,16
+190873,Canton,6,12,74,26
+190874,Canton,6,61,70,4
+190878,Canton,6,36,99,12
+190879,Canton,6,54,50,21
+190880,Canton,6,55,58,29
+190881,Canton,6,38,17,7
+190882,Canton,6,39,73,10
+190883,Canton,6,33,83,24
+190884,Canton,6,23,87,24
+190885,Canton,6,31,27,4
+190891,Canton,6,12,33,0
+190892,Canton,6,23,3,12
+190893,Canton,6,49,29,6
+190894,Canton,6,57,25,19
+190895,Canton,6,14,37,15
+191706,Canton,6,61,76,14
+191707,Canton,6,32,12,24
+191708,Canton,6,12,5,28
+191709,Canton,6,34,3,29
+191710,Canton,6,52,81,19
+191714,Canton,6,2,36,24
+191715,Canton,6,41,89,1
+191716,Canton,6,0,2,25
+191717,Canton,6,54,90,17
+191718,Canton,6,7,31,9
+191719,Canton,6,41,8,1
+191720,Canton,6,37,1,24
+192545,Canton,6,64,95,9
+192546,Canton,6,26,2,3
+192551,Canton,6,8,48,21
+192552,Canton,6,49,74,15
+192553,Canton,6,12,12,23
+192554,Canton,6,30,30,9
+192555,Canton,6,55,64,0
+192556,Canton,6,34,23,25
+193393,Canton,6,12,26,0
